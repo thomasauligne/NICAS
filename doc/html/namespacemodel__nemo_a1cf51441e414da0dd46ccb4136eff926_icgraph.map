@@ -1,0 +1,6 @@
+<map id="model_nemo::model_nemo_write" name="model_nemo::model_nemo_write">
+<area shape="rect" id="node2" href="$namespacemodel__interface.html#a2b8ec01adb81c147ed1fd526510a4072" title="Purpose: write model field. " alt="" coords="237,35,397,76"/>
+<area shape="rect" id="node3" href="$namespacemodule__parameters.html#a5182d8aadb6616c59357aba86ce63879" title="Purpose: compute NICAS parameters. " alt="" coords="451,5,599,47"/>
+<area shape="rect" id="node5" href="$namespacemodule__test.html#a5a77c9dbbc68544635a1c6c80e6a8682" title="Purpose: apply NICAS to diracs. " alt="" coords="445,71,605,98"/>
+<area shape="rect" id="node4" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="653,42,707,69"/>
+</map>

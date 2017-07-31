@@ -1,0 +1,7 @@
+<map id="type_sdata::sdata_read_param" name="type_sdata::sdata_read_param">
+<area shape="rect" id="node2" href="$namespacetools__nc.html#a37a2ba62c59b476eb07633377a95b4ce" title="Purpose: handle NetCDF error. " alt="" coords="215,31,324,57"/>
+<area shape="rect" id="node3" href="$namespacetools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="372,31,532,57"/>
+<area shape="rect" id="node4" href="$namespacetype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="580,31,723,57"/>
+<area shape="rect" id="node5" href="$namespacetype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="771,5,905,32"/>
+<area shape="rect" id="node6" href="$namespacetype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="953,31,1100,57"/>
+</map>

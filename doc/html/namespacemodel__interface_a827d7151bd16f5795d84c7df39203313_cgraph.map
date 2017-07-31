@@ -1,0 +1,16 @@
+<map id="model_interface::model_read" name="model_interface::model_read">
+<area shape="rect" id="node2" href="$namespacetools__nc.html#a37a2ba62c59b476eb07633377a95b4ce" title="Purpose: handle NetCDF error. " alt="" coords="513,259,623,286"/>
+<area shape="rect" id="node3" href="$namespacetools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="671,259,831,286"/>
+<area shape="rect" id="node7" href="$namespacemodel__aro.html#ac03780ce2bcbe4e5fa7bae439e92c809" title="Purpose: read AROME field. " alt="" coords="262,82,451,108"/>
+<area shape="rect" id="node8" href="$namespacemodel__arp.html#a182d7f0a300f58deb5f3cb16b1bc5ef4" title="Purpose: read ARPEGE field. " alt="" coords="262,132,451,159"/>
+<area shape="rect" id="node9" href="$namespacemodel__gem.html#af34c0b473ad0b8a31404df375d49ec51" title="Purpose: read GEM field. " alt="" coords="255,487,458,514"/>
+<area shape="rect" id="node10" href="$namespacemodel__geos.html#a657bfab5697c9f2c9b09689dbae99176" title="Purpose: read geos field. " alt="" coords="252,183,461,210"/>
+<area shape="rect" id="node11" href="$namespacemodel__gfs.html#a1311543d0548531781fdd434f81b5049" title="Purpose: read GFS field. " alt="" coords="263,234,450,260"/>
+<area shape="rect" id="node12" href="$namespacemodel__ifs.html#a8332bd9769932e8cb8eb82674cf170ff" title="Purpose: read IFS field. " alt="" coords="268,284,445,311"/>
+<area shape="rect" id="node13" href="$namespacemodel__mpas.html#a2219d950f5541c667e82c2faf47209f1" title="Purpose: read MPAS field. " alt="" coords="249,335,465,362"/>
+<area shape="rect" id="node14" href="$namespacemodel__nemo.html#abd0c14ca30cd21368b44d721ce5f213f" title="Purpose: read NEMO field. " alt="" coords="248,386,465,412"/>
+<area shape="rect" id="node15" href="$namespacemodel__wrf.html#a9b57543860bbf7cffaafdc944f29648b" title="Purpose: read WRF field. " alt="" coords="263,436,450,463"/>
+<area shape="rect" id="node4" href="$namespacetype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="879,259,1021,286"/>
+<area shape="rect" id="node5" href="$namespacetype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="1069,234,1204,260"/>
+<area shape="rect" id="node6" href="$namespacetype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="1252,259,1399,286"/>
+</map>

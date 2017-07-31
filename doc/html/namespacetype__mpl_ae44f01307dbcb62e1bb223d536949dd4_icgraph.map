@@ -1,0 +1,51 @@
+<map id="type_mpl::mpl_abort" name="type_mpl::mpl_abort">
+<area shape="rect" id="node2" href="$namespacetools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="196,582,356,608"/>
+<area shape="rect" id="node30" href="$namespacetype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="203,1946,349,1972"/>
+<area shape="rect" id="node3" href="$namespacemodel__gem.html#af34c0b473ad0b8a31404df375d49ec51" title="Purpose: read GEM field. " alt="" coords="641,810,844,836"/>
+<area shape="rect" id="node4" href="$namespacemodel__interface.html#a827d7151bd16f5795d84c7df39203313" title="Purpose: read model field. " alt="" coords="892,810,1087,836"/>
+<area shape="rect" id="node6" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="1365,780,1419,807"/>
+<area shape="rect" id="node7" href="$namespacemodel__interface.html#a07672885975d67b5a394f7480f0cf7b7" title="Purpose: get coordinates. " alt="" coords="909,1212,1069,1253"/>
+<area shape="rect" id="node8" href="$namespacemodel__interface.html#a2b8ec01adb81c147ed1fd526510a4072" title="Purpose: write model field. " alt="" coords="909,1013,1069,1054"/>
+<area shape="rect" id="node10" href="$namespacemodule__apply__com.html#a58c9a10af65e519bedd58ff174fefe06" title="Purpose: communicate reduced field from zone A to zone B. " alt="" coords="410,490,587,532"/>
+<area shape="rect" id="node13" href="$namespacemodule__apply__com.html#a656325ea0bf283606915acaadbcfc185" title="Purpose: communicate reduced field from zone B to zone A. " alt="" coords="410,425,587,466"/>
+<area shape="rect" id="node14" href="$namespacemodule__apply__com.html#a42cf7fb8af57a6018d459374cf33f35e" title="Purpose: communicate reduced field from zone C to zone A. " alt="" coords="410,360,587,401"/>
+<area shape="rect" id="node15" href="$namespacemodule__namelist.html#a62119c9eeb727e0549c342f660f22ea9" title="Purpose: read and check namelist parameters. " alt="" coords="1135,654,1317,680"/>
+<area shape="rect" id="node16" href="$namespacemodule__parameters.html#a6fe75e47365378295557ce958c19ca2f" title="Purpose: compute grid mesh. " alt="" coords="915,608,1063,649"/>
+<area shape="rect" id="node17" href="$namespacemodule__parameters__convol.html#a1667ac34181b0eda142a7f1c628dc88d" title="Purpose: compute convolution with a network approach. " alt="" coords="896,674,1083,716"/>
+<area shape="rect" id="node18" href="$namespacemodule__parameters__convol.html#a386fc9afa1ab7cc27130dcd93630f118" title="Purpose: compute convolution with a distance approach. " alt="" coords="896,742,1083,784"/>
+<area shape="rect" id="node19" href="$namespacetools__nc.html#adffd8bdbda90cde1050a883ec53c9a23" title="Purpose: initialize NetCDF type for floats. " alt="" coords="1155,131,1297,158"/>
+<area shape="rect" id="node20" href="$namespacetools__nc.html#a37a2ba62c59b476eb07633377a95b4ce" title="Purpose: handle NetCDF error. " alt="" coords="444,991,553,1018"/>
+<area shape="rect" id="node25" href="$namespacetype__sdata.html#ab5adabb1b8da7f659febd2721d76fbc7" title="Purpose: read sdata object. " alt="" coords="662,1364,823,1405"/>
+<area shape="rect" id="node26" href="$namespacetype__linop.html#a135e120b56157fbf081d37a130e0dc6c" title="Purpose: apply linear operator. " alt="" coords="420,106,577,132"/>
+<area shape="rect" id="node27" href="$namespacetype__linop.html#aa3e44ba0b4e0854c7a32f05e1de66a0a" title="Purpose: apply linear operator, adjoint. " alt="" coords="409,156,589,183"/>
+<area shape="rect" id="node28" href="$namespacetype__linop.html#ad859e926e4d13329dbf2baa5abcdbe5e" title="Purpose: apply linear operator, symmetric. " alt="" coords="404,207,593,234"/>
+<area shape="rect" id="node29" href="$namespacetype__timer.html#a4726d424eccda49abdbc041022f50e9b" title="Purpose: finalize timer. " alt="" coords="914,258,1065,284"/>
+<area shape="rect" id="node5" href="$namespacemodule__parameters.html#a5182d8aadb6616c59357aba86ce63879" title="Purpose: compute NICAS parameters. " alt="" coords="1152,773,1300,814"/>
+<area shape="rect" id="node9" href="$namespacemodule__test.html#a5a77c9dbbc68544635a1c6c80e6a8682" title="Purpose: apply NICAS to diracs. " alt="" coords="1146,930,1306,956"/>
+<area shape="rect" id="node11" href="$namespacemodule__apply__convol.html#a9659a96bc009ddac1927cccc8492f3a4" title="Purpose: convolution. " alt="" coords="667,428,818,469"/>
+<area shape="rect" id="node12" href="$namespacemodule__test.html#a923d4999a00963cf55ffd6512af05ebd" title="Purpose: test adjoints accuracy. " alt="" coords="901,498,1078,524"/>
+<area shape="rect" id="node21" href="$namespacemodel__aro.html#a83dc96986d36cbf44aa321b8e325e05c" title="Purpose: load AROME coordinates. " alt="" coords="665,1181,821,1222"/>
+<area shape="rect" id="node22" href="$namespacemodel__aro.html#ac03780ce2bcbe4e5fa7bae439e92c809" title="Purpose: read AROME field. " alt="" coords="648,911,837,938"/>
+<area shape="rect" id="node23" href="$namespacemodel__aro.html#a4c914144f345283a9b301ff5d593c0f4" title="Purpose: write AROME field. " alt="" coords="665,1013,821,1054"/>
+<area shape="rect" id="node24" href="$namespacemodel__arp.html#a6006846f6aea6f12a22d87c933a74ccf" title="Purpose: get ARPEGE coordinates. " alt="" coords="665,1246,821,1288"/>
+<area shape="rect" id="node31" href="$namespacetype__mpl.html#a20231a44aa5437c374e4ef69bd3d124a" title="Purpose: start MPI. " alt="" coords="1157,1604,1295,1631"/>
+<area shape="rect" id="node32" href="$namespacetype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="431,1414,566,1440"/>
+<area shape="rect" id="node33" href="$namespacetype__mpl.html#aef90ec20ea2640a6cb3b62dadc4d0dde" title="Purpose: MPI barrier. " alt="" coords="423,2098,574,2124"/>
+<area shape="rect" id="node34" href="$namespacetype__mpl.html#a4809f645ab7bbf22d6ccba7bd21d444b" title="Purpose: broadcast integer. " alt="" coords="671,1810,815,1852"/>
+<area shape="rect" id="node35" href="$namespacetype__mpl.html#a34d09da958a781deb4228c4027df70ed" title="Purpose: broadcast 1d integer array. " alt="" coords="671,1876,815,1917"/>
+<area shape="rect" id="node36" href="$namespacetype__mpl.html#a5eee5a4bff3807140937d5740b56913d" title="Purpose: broadcast 2d integer array. " alt="" coords="671,1941,815,1982"/>
+<area shape="rect" id="node37" href="$namespacetype__mpl.html#a9272435de61e8f0d74e858e606f5dea2" title="Purpose: broadcast real. " alt="" coords="656,2007,829,2034"/>
+<area shape="rect" id="node38" href="$namespacetype__mpl.html#a35ecc728557060fed85231d34f75c28f" title="Purpose: broadcast 1d real array. " alt="" coords="671,2058,815,2100"/>
+<area shape="rect" id="node39" href="$namespacetype__mpl.html#aa5b6525258c33e539ec93b8633ea53ed" title="Purpose: broadcast 2d real array. " alt="" coords="671,2124,815,2165"/>
+<area shape="rect" id="node40" href="$namespacetype__mpl.html#aa4313fdb4f1ad594e0154d42ba87e05e" title="Purpose: broadcast logical. " alt="" coords="671,2189,815,2230"/>
+<area shape="rect" id="node41" href="$namespacetype__mpl.html#ae0e8f8c41dcba2474faf4a0a06ce7b4d" title="Purpose: broadcast 1d logical array. " alt="" coords="671,2254,815,2296"/>
+<area shape="rect" id="node42" href="$namespacetype__mpl.html#aa184460219c83a0a9b95fae875b228ce" title="Purpose: broadcast string. " alt="" coords="671,2320,815,2361"/>
+<area shape="rect" id="node43" href="$namespacetype__mpl.html#abdac71cca1aebdf7ceb4c57561d3c4ba" title="Purpose: receive integer. " alt="" coords="430,2352,567,2393"/>
+<area shape="rect" id="node44" href="$namespacetype__mpl.html#aa4bf789f2593a515ea05e2ea86ba04f7" title="Purpose: receive 1d integer array. " alt="" coords="430,2417,567,2458"/>
+<area shape="rect" id="node45" href="$namespacetype__mpl.html#a427973304482896fdf99179dd67c3b58" title="Purpose: receive 1d real array. " alt="" coords="430,2482,567,2524"/>
+<area shape="rect" id="node46" href="$namespacetype__mpl.html#a3910654a5f2b51bc6ed1383221d4242c" title="Purpose: receive 1d logical array. " alt="" coords="430,1465,567,1506"/>
+<area shape="rect" id="node47" href="$namespacetype__mpl.html#a679770cfc891f2120a9dca6f571b9902" title="Purpose: send integer. " alt="" coords="428,1530,569,1572"/>
+<area shape="rect" id="node48" href="$namespacetype__mpl.html#a07e68669b6f18c6bd3218a167af61fa1" title="Purpose: send 1d integer array. " alt="" coords="428,1596,569,1637"/>
+<area shape="rect" id="node49" href="$namespacetype__mpl.html#a088e1322b89d3d1abdf837238b0cf536" title="Purpose: send 1d real array. " alt="" coords="428,1661,569,1702"/>
+<area shape="rect" id="node50" href="$namespacetype__mpl.html#a87f34fe4a0f356728bf6825346407faa" title="Purpose: send 1d logical array. " alt="" coords="428,1778,569,1820"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="module_apply_nicas::apply_nicas_sqrt" name="module_apply_nicas::apply_nicas_sqrt">
+<area shape="rect" id="node3" href="$classmodule__apply__nicas.html#ae571f2b9e053e1abb8a3420bb02c2320" title="Purpose: apply NICAS method from its square&#45;root formulation. " alt="" coords="208,59,371,101"/>
+<area shape="rect" id="node15" href="$classmodule__test.html#a923d4999a00963cf55ffd6512af05ebd" title="Purpose: test adjoints accuracy. " alt="" coords="200,136,379,163"/>
+<area shape="rect" id="node5" href="$classmodule__test.html#a7b922a1ee90c6c3d5e95644b024a3604" title="Purpose: test positive_definiteness. " alt="" coords="427,5,605,32"/>
+<area shape="rect" id="node9" href="$classmodule__test.html#a800eb6ba8767aea66c4c90e6855927b9" title="Purpose: test single/mutli&#45;procs equivalence. " alt="" coords="440,56,592,83"/>
+<area shape="rect" id="node12" href="$classmodule__test.html#a5a77c9dbbc68544635a1c6c80e6a8682" title="Purpose: apply NICAS to diracs. " alt="" coords="435,107,597,133"/>
+<area shape="rect" id="node7" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="654,81,709,108"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="module_parameters_convol::compute_convol_distance" name="module_parameters_convol::compute_convol_distance">
+<area shape="rect" id="node2" href="$namespacetype__ctree.html#a2f4f9685701a1f6342931101f1d15e90" title="Purpose: create a cover tree. " alt="" coords="258,5,387,47"/>
+<area shape="rect" id="node3" href="$namespacetype__ctree.html#a59d0c1eca0b8bdc08161acecc3b0fd2d" title="Purpose: find nearest neighbors using a cover tree. " alt="" coords="240,71,405,112"/>
+<area shape="rect" id="node4" href="$namespacetools__display.html#aa739efed593153c8a64378b930c78b7f" title="Purpose: initialize progression display. " alt="" coords="244,137,401,163"/>
+<area shape="rect" id="node5" href="$namespacetools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="243,187,403,214"/>
+<area shape="rect" id="node9" href="$namespacetools__display.html#a68aff9e85d244eb3c1d0c5535e9738b3" title="Purpose: print progression display. " alt="" coords="256,239,389,280"/>
+<area shape="rect" id="node10" href="$namespacetype__linop.html#a829cd2068ca6e7decae83f80c48486e1" title="Purpose: linear operator object allocation. " alt="" coords="246,305,399,331"/>
+<area shape="rect" id="node11" href="$namespacetype__ctree.html#abecf4614801cd13bef286be38b2612e1" title="Purpose: delete a cover tree. " alt="" coords="259,356,387,397"/>
+<area shape="rect" id="node6" href="$namespacetype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="453,187,596,214"/>
+<area shape="rect" id="node7" href="$namespacetype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="644,162,779,189"/>
+<area shape="rect" id="node8" href="$namespacetype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="827,187,973,214"/>
+</map>

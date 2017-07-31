@@ -1,0 +1,6 @@
+<map id="model_gfs::model_gfs_write" name="model_gfs::model_gfs_write">
+<area shape="rect" id="node3" href="$classmodel__interface.html#a2b8ec01adb81c147ed1fd526510a4072" title="Purpose: write model field. " alt="" coords="211,34,375,75"/>
+<area shape="rect" id="node5" href="$classmodule__parameters.html#a5182d8aadb6616c59357aba86ce63879" title="Purpose: compute NICAS parameters. " alt="" coords="430,5,581,46"/>
+<area shape="rect" id="node9" href="$classmodule__test.html#a5a77c9dbbc68544635a1c6c80e6a8682" title="Purpose: apply NICAS to diracs. " alt="" coords="425,71,586,97"/>
+<area shape="rect" id="node7" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="635,41,690,68"/>
+</map>

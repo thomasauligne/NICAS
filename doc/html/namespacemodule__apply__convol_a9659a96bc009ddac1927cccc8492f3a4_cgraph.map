@@ -1,0 +1,14 @@
+<map id="module_apply_convol::convol" name="module_apply_convol::convol">
+<area shape="rect" id="node2" href="$namespacemodule__apply__convol.html#aa29cc79529d25fc13a7b3c48cb5eab6b" title="Purpose: convolution, global. " alt="" coords="217,136,368,177"/>
+<area shape="rect" id="node8" href="$namespacemodule__apply__com.html#ad58ae565aa19a75a694afa6e026645c9" title="Purpose: copy reduced field from zone B to zone C. " alt="" coords="204,71,381,112"/>
+<area shape="rect" id="node9" href="$namespacemodule__apply__com.html#a656325ea0bf283606915acaadbcfc185" title="Purpose: communicate reduced field from zone B to zone A. " alt="" coords="435,241,613,283"/>
+<area shape="rect" id="node10" href="$namespacemodule__apply__com.html#a03edaac5c4df1bcb12cb912360a5dfa8" title="Purpose: copy reduced field from zone A to zone C. " alt="" coords="204,201,381,243"/>
+<area shape="rect" id="node11" href="$namespacemodule__apply__convol.html#a87ab68af4b3a9fa89046b0789d7e4219" title="Purpose: convolution, local. " alt="" coords="217,5,368,47"/>
+<area shape="rect" id="node12" href="$namespacemodule__apply__com.html#a42cf7fb8af57a6018d459374cf33f35e" title="Purpose: communicate reduced field from zone C to zone A. " alt="" coords="435,307,613,348"/>
+<area shape="rect" id="node13" href="$namespacemodule__apply__com.html#a58c9a10af65e519bedd58ff174fefe06" title="Purpose: communicate reduced field from zone A to zone B. " alt="" coords="435,372,613,413"/>
+<area shape="rect" id="node3" href="$namespacetype__linop.html#ad859e926e4d13329dbf2baa5abcdbe5e" title="Purpose: apply linear operator, symmetric. " alt="" coords="429,143,619,170"/>
+<area shape="rect" id="node4" href="$namespacetools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="667,282,827,309"/>
+<area shape="rect" id="node5" href="$namespacetype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="875,282,1017,309"/>
+<area shape="rect" id="node6" href="$namespacetype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="1065,257,1200,283"/>
+<area shape="rect" id="node7" href="$namespacetype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="1248,282,1395,309"/>
+</map>

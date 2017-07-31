@@ -1,0 +1,36 @@
+<map id="module_test::test_dirac" name="module_test::test_dirac">
+<area shape="rect" id="node3" href="$classtools__const.html#abb30da2ba1acc41e8c53c58638e40b8a" title="Purpose: compute the great&#45;circle distance between two points. " alt="" coords="217,153,383,180"/>
+<area shape="rect" id="node5" href="$classmodule__apply__nicas.html#ae571f2b9e053e1abb8a3420bb02c2320" title="Purpose: apply NICAS method from its square&#45;root formulation. " alt="" coords="219,205,381,246"/>
+<area shape="rect" id="node54" href="$classmodule__apply__nicas.html#af891b000bef2e3f4c0c7a116ed30dab5" title="Purpose: apply NICAS method. " alt="" coords="437,201,582,242"/>
+<area shape="rect" id="node61" href="$classmodel__interface.html#a2b8ec01adb81c147ed1fd526510a4072" title="Purpose: write model field. " alt="" coords="635,691,799,733"/>
+<area shape="rect" id="node7" href="$classmodule__apply__nicas.html#a5278e7b3233d83b477ec8580b67fad2b" title="Purpose: apply NICAS method square&#45;root adjoint. " alt="" coords="433,135,586,177"/>
+<area shape="rect" id="node39" href="$classmodule__apply__nicas.html#ad834645adaa30ad1d83464a388fb0c5b" title="Purpose: apply NICAS method square&#45;root. " alt="" coords="437,266,582,307"/>
+<area shape="rect" id="node9" href="$classmodule__apply__com.html#ab4bb26755dd2a3986e2656c615d101ff" title="Purpose: communicate full field from global to local distribution. " alt="" coords="637,135,798,177"/>
+<area shape="rect" id="node11" href="$classmodule__apply__interp.html#a1db8b086d3d84de58b75f03003019b68" title="Purpose: interpolation adjoint. " alt="" coords="645,70,790,111"/>
+<area shape="rect" id="node29" href="$classmodule__apply__convol.html#a9659a96bc009ddac1927cccc8492f3a4" title="Purpose: convolution. " alt="" coords="641,201,794,242"/>
+<area shape="rect" id="node13" href="$classmodule__apply__interp.html#a0bc139b19d963cf2f480ce09a5c68603" title="Purpose: interpolation adjoint, global. " alt="" coords="870,5,1015,46"/>
+<area shape="rect" id="node26" href="$classmodule__apply__interp.html#a59b610ff153518c5231ba72658d98b0f" title="Purpose: interpolation adjoint, local. " alt="" coords="870,70,1015,111"/>
+<area shape="rect" id="node15" href="$classtype__linop.html#aa3e44ba0b4e0854c7a32f05e1de66a0a" title="Purpose: apply linear operator, adjoint. " alt="" coords="1090,77,1270,104"/>
+<area shape="rect" id="node17" href="$classtools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="1323,307,1485,333"/>
+<area shape="rect" id="node19" href="$classtype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="1533,307,1675,333"/>
+<area shape="rect" id="node21" href="$classtype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="1723,281,1858,308"/>
+<area shape="rect" id="node23" href="$classtype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="1907,307,2053,333"/>
+<area shape="rect" id="node31" href="$classmodule__apply__convol.html#aa29cc79529d25fc13a7b3c48cb5eab6b" title="Purpose: convolution, global. " alt="" coords="866,135,1019,177"/>
+<area shape="rect" id="node36" href="$classmodule__apply__convol.html#a87ab68af4b3a9fa89046b0789d7e4219" title="Purpose: convolution, local. " alt="" coords="866,201,1019,242"/>
+<area shape="rect" id="node33" href="$classtype__linop.html#ad859e926e4d13329dbf2baa5abcdbe5e" title="Purpose: apply linear operator, symmetric. " alt="" coords="1085,208,1275,235"/>
+<area shape="rect" id="node42" href="$classmodule__apply__interp.html#ab9b1df0d0a05eea64a1d0ebb8e20f311" title="Purpose: interpolation. " alt="" coords="645,331,790,373"/>
+<area shape="rect" id="node52" href="$classmodule__apply__com.html#a866aa117060240e927335ae518322c1c" title="Purpose: communicate full field from local to global distribution. " alt="" coords="637,266,798,307"/>
+<area shape="rect" id="node44" href="$classmodule__apply__interp.html#a0523cd7d882d0e5178707dbd9d0551e5" title="Purpose: interpolation, global. " alt="" coords="870,266,1015,307"/>
+<area shape="rect" id="node49" href="$classmodule__apply__interp.html#a1802fbae08d7cd1a5aaed3528e603fdb" title="Purpose: interpolation, local. " alt="" coords="870,331,1015,373"/>
+<area shape="rect" id="node46" href="$classtype__linop.html#a135e120b56157fbf081d37a130e0dc6c" title="Purpose: apply linear operator. " alt="" coords="1101,307,1259,333"/>
+<area shape="rect" id="node63" href="$classtools__nc.html#a37a2ba62c59b476eb07633377a95b4ce" title="Purpose: handle NetCDF error. " alt="" coords="1125,665,1235,692"/>
+<area shape="rect" id="node66" href="$classmodel__aro.html#a4c914144f345283a9b301ff5d593c0f4" title="Purpose: write AROME field. " alt="" coords="863,971,1023,1013"/>
+<area shape="rect" id="node69" href="$classmodel__arp.html#a99fe0147833ed9a7d4635416c277882b" title="Purpose: write ARPEGE field. " alt="" coords="863,397,1022,438"/>
+<area shape="rect" id="node72" href="$classmodel__gem.html#a0a18d9ab303761c25a4cb44b285ec91d" title="Purpose: write GEM field. " alt="" coords="855,462,1030,503"/>
+<area shape="rect" id="node75" href="$classmodel__geos.html#a1511a31e4517174c57e520dd7d17e95e" title="Purpose: write geos field. " alt="" coords="851,527,1034,569"/>
+<area shape="rect" id="node78" href="$classmodel__gfs.html#a760a3317dcf0497dec611971b0706699" title="Purpose: write GFS field. " alt="" coords="865,593,1021,634"/>
+<area shape="rect" id="node81" href="$classmodel__ifs.html#a1a66da7eb47cd2f39b155b8d6366b819" title="Purpose: write IFS field. " alt="" coords="869,658,1016,699"/>
+<area shape="rect" id="node84" href="$classmodel__mpas.html#ad8f8e052610111a989f4943c0976d8e8" title="Purpose: write MPAS field. " alt="" coords="849,723,1036,765"/>
+<area shape="rect" id="node87" href="$classmodel__nemo.html#a1cf51441e414da0dd46ccb4136eff926" title="Purpose: write NEMO field. " alt="" coords="849,789,1037,830"/>
+<area shape="rect" id="node90" href="$classmodel__wrf.html#afd16dd2037fb04a5619b8510dabff15a" title="Purpose: write WRF field. " alt="" coords="865,854,1020,895"/>
+</map>

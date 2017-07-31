@@ -1,0 +1,15 @@
+<map id="module_apply_nicas::apply_nicas_sqrt_ad" name="module_apply_nicas::apply_nicas_sqrt_ad">
+<area shape="rect" id="node3" href="$classmodule__apply__com.html#ab4bb26755dd2a3986e2656c615d101ff" title="Purpose: communicate full field from global to local distribution. " alt="" coords="209,5,370,46"/>
+<area shape="rect" id="node5" href="$classmodule__apply__interp.html#a1db8b086d3d84de58b75f03003019b68" title="Purpose: interpolation adjoint. " alt="" coords="217,70,362,111"/>
+<area shape="rect" id="node23" href="$classmodule__apply__convol.html#a9659a96bc009ddac1927cccc8492f3a4" title="Purpose: convolution. " alt="" coords="213,135,366,177"/>
+<area shape="rect" id="node7" href="$classmodule__apply__interp.html#a0bc139b19d963cf2f480ce09a5c68603" title="Purpose: interpolation adjoint, global. " alt="" coords="423,5,569,46"/>
+<area shape="rect" id="node20" href="$classmodule__apply__interp.html#a59b610ff153518c5231ba72658d98b0f" title="Purpose: interpolation adjoint, local. " alt="" coords="423,70,569,111"/>
+<area shape="rect" id="node9" href="$classtype__linop.html#aa3e44ba0b4e0854c7a32f05e1de66a0a" title="Purpose: apply linear operator, adjoint. " alt="" coords="626,77,806,104"/>
+<area shape="rect" id="node11" href="$classtools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="859,111,1021,137"/>
+<area shape="rect" id="node13" href="$classtype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="1069,111,1211,137"/>
+<area shape="rect" id="node15" href="$classtype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="1259,85,1394,112"/>
+<area shape="rect" id="node17" href="$classtype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="1443,111,1589,137"/>
+<area shape="rect" id="node25" href="$classmodule__apply__convol.html#aa29cc79529d25fc13a7b3c48cb5eab6b" title="Purpose: convolution, global. " alt="" coords="419,135,573,177"/>
+<area shape="rect" id="node30" href="$classmodule__apply__convol.html#a87ab68af4b3a9fa89046b0789d7e4219" title="Purpose: convolution, local. " alt="" coords="419,201,573,242"/>
+<area shape="rect" id="node27" href="$classtype__linop.html#ad859e926e4d13329dbf2baa5abcdbe5e" title="Purpose: apply linear operator, symmetric. " alt="" coords="621,143,811,169"/>
+</map>

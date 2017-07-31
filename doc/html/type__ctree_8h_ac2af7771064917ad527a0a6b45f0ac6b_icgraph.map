@@ -1,0 +1,9 @@
+<map id="create_ctree" name="create_ctree">
+<area shape="rect" id="node3" href="$classmodule__parameters__convol.html#a386fc9afa1ab7cc27130dcd93630f118" title="Purpose: compute convolution with a distance approach. " alt="" coords="152,5,341,46"/>
+<area shape="rect" id="node9" href="$classmodule__parameters__interp.html#ab7d02f80627281d546312adcd39ccfd4" title="Purpose: compute basic horizontal interpolation. " alt="" coords="156,70,337,111"/>
+<area shape="rect" id="node12" href="$classmodule__parameters__interp.html#a282b384b5fdc02b7fb27ee1a79893151" title="Purpose: compute horizontal subsampling interpolation. " alt="" coords="156,135,337,177"/>
+<area shape="rect" id="node15" href="$interfacetype__ctree_1_1find__nearest__neighbors__c.html#ae06f22d2d8f3c77580dec71d72c9f31b" title="type_ctree::find_nearest\l_neighbors_c::find_nearest\l_neighbors_c" alt="" coords="155,200,338,256"/>
+<area shape="rect" id="node17" href="$classtype__ctree.html#a2f4f9685701a1f6342931101f1d15e90" title="Purpose: create a cover tree. " alt="" coords="181,279,312,321"/>
+<area shape="rect" id="node5" href="$classmodule__parameters.html#a5182d8aadb6616c59357aba86ce63879" title="Purpose: compute NICAS parameters. " alt="" coords="390,70,541,111"/>
+<area shape="rect" id="node7" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="590,77,645,104"/>
+</map>

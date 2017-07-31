@@ -1,0 +1,11 @@
+<map id="module_apply_interp::interp_global" name="module_apply_interp::interp_global">
+<area shape="rect" id="node2" href="$namespacemodule__apply__interp.html#ab9b1df0d0a05eea64a1d0ebb8e20f311" title="Purpose: interpolation. " alt="" coords="199,25,344,66"/>
+<area shape="rect" id="node3" href="$namespacemodule__apply__nicas.html#af891b000bef2e3f4c0c7a116ed30dab5" title="Purpose: apply NICAS method. " alt="" coords="594,80,738,121"/>
+<area shape="rect" id="node4" href="$namespacemodule__test.html#a923d4999a00963cf55ffd6512af05ebd" title="Purpose: test adjoints accuracy. " alt="" coords="797,28,974,55"/>
+<area shape="rect" id="node9" href="$namespacemodule__apply__nicas.html#ad834645adaa30ad1d83464a388fb0c5b" title="Purpose: apply NICAS method square&#45;root. " alt="" coords="392,25,536,66"/>
+<area shape="rect" id="node6" href="$namespacemodule__test.html#a7b922a1ee90c6c3d5e95644b024a3604" title="Purpose: test positive_definiteness. " alt="" coords="796,79,975,106"/>
+<area shape="rect" id="node7" href="$namespacemodule__test.html#a800eb6ba8767aea66c4c90e6855927b9" title="Purpose: test single/mutli&#45;procs equivalence. " alt="" coords="809,130,961,156"/>
+<area shape="rect" id="node8" href="$namespacemodule__test.html#a5a77c9dbbc68544635a1c6c80e6a8682" title="Purpose: apply NICAS to diracs. " alt="" coords="805,180,965,207"/>
+<area shape="rect" id="node5" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="1023,104,1076,131"/>
+<area shape="rect" id="node10" href="$namespacemodule__apply__nicas.html#ae571f2b9e053e1abb8a3420bb02c2320" title="Purpose: apply NICAS method from its square&#45;root formulation. " alt="" coords="584,145,748,186"/>
+</map>

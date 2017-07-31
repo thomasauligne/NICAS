@@ -1,0 +1,5 @@
+<map id="model_nemo::model_nemo_read" name="model_nemo::model_nemo_read">
+<area shape="rect" id="node3" href="$classmodel__interface.html#a827d7151bd16f5795d84c7df39203313" title="Purpose: read model field. " alt="" coords="278,12,477,39"/>
+<area shape="rect" id="node5" href="$classmodule__parameters.html#a5182d8aadb6616c59357aba86ce63879" title="Purpose: compute NICAS parameters. " alt="" coords="526,5,677,46"/>
+<area shape="rect" id="node7" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="726,12,781,39"/>
+</map>

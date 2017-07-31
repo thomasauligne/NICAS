@@ -1,0 +1,35 @@
+# The fortran modules provided by this target.
+provides
+ model_aro
+ model_arp
+ model_gem
+ model_geos
+ model_gfs
+ model_ifs
+ model_interface
+ model_mpas
+ model_nemo
+ model_wrf
+ module_apply_com
+ module_apply_convol
+ module_apply_interp
+ module_apply_nicas
+ module_mpi
+ module_namelist
+ module_normalization
+ module_parameters
+ module_parameters_convol
+ module_parameters_interp
+ module_test
+ tools_const
+ tools_display
+ tools_missing
+ tools_nc
+ type_com
+ type_ctree
+ type_fields
+ type_linop
+ type_mpl
+ type_randgen
+ type_sdata
+ type_timer

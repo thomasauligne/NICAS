@@ -1,0 +1,7 @@
+<map id="model_nemo::model_nemo_write" name="model_nemo::model_nemo_write">
+<area shape="rect" id="node2" href="$namespacetools__nc.html#a37a2ba62c59b476eb07633377a95b4ce" title="Purpose: handle NetCDF error. " alt="" coords="237,31,347,57"/>
+<area shape="rect" id="node3" href="$namespacetools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="395,31,555,57"/>
+<area shape="rect" id="node4" href="$namespacetype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="603,31,745,57"/>
+<area shape="rect" id="node5" href="$namespacetype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="793,5,928,32"/>
+<area shape="rect" id="node6" href="$namespacetype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="976,31,1123,57"/>
+</map>

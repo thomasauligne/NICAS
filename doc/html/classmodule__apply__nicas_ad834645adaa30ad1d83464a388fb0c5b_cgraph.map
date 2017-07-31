@@ -1,0 +1,15 @@
+<map id="module_apply_nicas::apply_nicas_sqrt" name="module_apply_nicas::apply_nicas_sqrt">
+<area shape="rect" id="node3" href="$classmodule__apply__convol.html#a9659a96bc009ddac1927cccc8492f3a4" title="Purpose: convolution. " alt="" coords="205,70,358,111"/>
+<area shape="rect" id="node21" href="$classmodule__apply__interp.html#ab9b1df0d0a05eea64a1d0ebb8e20f311" title="Purpose: interpolation. " alt="" coords="209,135,354,177"/>
+<area shape="rect" id="node31" href="$classmodule__apply__com.html#a866aa117060240e927335ae518322c1c" title="Purpose: communicate full field from local to global distribution. " alt="" coords="201,201,362,242"/>
+<area shape="rect" id="node5" href="$classmodule__apply__convol.html#aa29cc79529d25fc13a7b3c48cb5eab6b" title="Purpose: convolution, global. " alt="" coords="411,5,565,46"/>
+<area shape="rect" id="node18" href="$classmodule__apply__convol.html#a87ab68af4b3a9fa89046b0789d7e4219" title="Purpose: convolution, local. " alt="" coords="411,70,565,111"/>
+<area shape="rect" id="node7" href="$classtype__linop.html#ad859e926e4d13329dbf2baa5abcdbe5e" title="Purpose: apply linear operator, symmetric. " alt="" coords="613,77,803,104"/>
+<area shape="rect" id="node9" href="$classtools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="851,111,1013,137"/>
+<area shape="rect" id="node11" href="$classtype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="1061,111,1203,137"/>
+<area shape="rect" id="node13" href="$classtype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="1251,85,1386,112"/>
+<area shape="rect" id="node15" href="$classtype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="1435,111,1581,137"/>
+<area shape="rect" id="node23" href="$classmodule__apply__interp.html#a0523cd7d882d0e5178707dbd9d0551e5" title="Purpose: interpolation, global. " alt="" coords="415,135,561,177"/>
+<area shape="rect" id="node28" href="$classmodule__apply__interp.html#a1802fbae08d7cd1a5aaed3528e603fdb" title="Purpose: interpolation, local. " alt="" coords="415,201,561,242"/>
+<area shape="rect" id="node25" href="$classtype__linop.html#a135e120b56157fbf081d37a130e0dc6c" title="Purpose: apply linear operator. " alt="" coords="629,143,787,169"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="module_apply_nicas::apply_nicas_sqrt" name="module_apply_nicas::apply_nicas_sqrt">
+<area shape="rect" id="node2" href="$namespacemodule__apply__com.html#ae357e166a78900023d7e2a0513c03382" title="Purpose: copy reduced field from zone A to zone B. " alt="" coords="197,165,375,207"/>
+<area shape="rect" id="node3" href="$namespacemodule__apply__convol.html#a9659a96bc009ddac1927cccc8492f3a4" title="Purpose: convolution. " alt="" coords="211,231,361,272"/>
+<area shape="rect" id="node16" href="$namespacemodule__apply__interp.html#ab9b1df0d0a05eea64a1d0ebb8e20f311" title="Purpose: interpolation. " alt="" coords="213,377,359,419"/>
+<area shape="rect" id="node20" href="$namespacemodule__apply__com.html#a866aa117060240e927335ae518322c1c" title="Purpose: communicate full field from local to global distribution. " alt="" coords="207,443,365,484"/>
+<area shape="rect" id="node4" href="$namespacemodule__apply__convol.html#aa29cc79529d25fc13a7b3c48cb5eab6b" title="Purpose: convolution, global. " alt="" coords="436,231,587,272"/>
+<area shape="rect" id="node10" href="$namespacemodule__apply__com.html#ad58ae565aa19a75a694afa6e026645c9" title="Purpose: copy reduced field from zone B to zone C. " alt="" coords="423,165,600,207"/>
+<area shape="rect" id="node11" href="$namespacemodule__apply__com.html#a656325ea0bf283606915acaadbcfc185" title="Purpose: communicate reduced field from zone B to zone A. " alt="" coords="654,136,831,177"/>
+<area shape="rect" id="node12" href="$namespacemodule__apply__com.html#a03edaac5c4df1bcb12cb912360a5dfa8" title="Purpose: copy reduced field from zone A to zone C. " alt="" coords="423,296,600,337"/>
+<area shape="rect" id="node13" href="$namespacemodule__apply__convol.html#a87ab68af4b3a9fa89046b0789d7e4219" title="Purpose: convolution, local. " alt="" coords="436,361,587,403"/>
+<area shape="rect" id="node14" href="$namespacemodule__apply__com.html#a42cf7fb8af57a6018d459374cf33f35e" title="Purpose: communicate reduced field from zone C to zone A. " alt="" coords="654,5,831,47"/>
+<area shape="rect" id="node15" href="$namespacemodule__apply__com.html#a58c9a10af65e519bedd58ff174fefe06" title="Purpose: communicate reduced field from zone A to zone B. " alt="" coords="654,71,831,112"/>
+<area shape="rect" id="node5" href="$namespacetype__linop.html#ad859e926e4d13329dbf2baa5abcdbe5e" title="Purpose: apply linear operator, symmetric. " alt="" coords="648,238,837,265"/>
+<area shape="rect" id="node6" href="$namespacetools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="885,143,1045,170"/>
+<area shape="rect" id="node7" href="$namespacetype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="1093,143,1236,170"/>
+<area shape="rect" id="node8" href="$namespacetype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="1284,118,1419,145"/>
+<area shape="rect" id="node9" href="$namespacetype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="1467,143,1613,170"/>
+<area shape="rect" id="node17" href="$namespacemodule__apply__interp.html#a0523cd7d882d0e5178707dbd9d0551e5" title="Purpose: interpolation, global. " alt="" coords="439,427,584,468"/>
+<area shape="rect" id="node19" href="$namespacemodule__apply__interp.html#a1802fbae08d7cd1a5aaed3528e603fdb" title="Purpose: interpolation, local. " alt="" coords="439,492,584,533"/>
+<area shape="rect" id="node18" href="$namespacetype__linop.html#a135e120b56157fbf081d37a130e0dc6c" title="Purpose: apply linear operator. " alt="" coords="664,434,821,461"/>
+</map>

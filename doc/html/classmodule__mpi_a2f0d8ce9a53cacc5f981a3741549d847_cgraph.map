@@ -1,0 +1,4 @@
+<map id="module_mpi::compute_mpi" name="module_mpi::compute_mpi">
+<area shape="rect" id="node3" href="$classtype__linop.html#a829cd2068ca6e7decae83f80c48486e1" title="Purpose: linear operator object allocation. " alt="" coords="241,5,396,32"/>
+<area shape="rect" id="node5" href="$classmodule__apply__com.html#ab4bb26755dd2a3986e2656c615d101ff" title="Purpose: communicate full field from global to local distribution. " alt="" coords="238,57,399,98"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="model_interface::model_coord" name="model_interface::model_coord">
+<area shape="rect" id="node3" href="$classmodel__aro.html#a83dc96986d36cbf44aa321b8e325e05c" title="Purpose: load AROME coordinates. " alt="" coords="233,439,393,480"/>
+<area shape="rect" id="node7" href="$classtools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="672,258,835,285"/>
+<area shape="rect" id="node20" href="$classmodel__arp.html#a6006846f6aea6f12a22d87c933a74ccf" title="Purpose: get ARPEGE coordinates. " alt="" coords="234,504,393,546"/>
+<area shape="rect" id="node24" href="$classmodel__gem.html#a580a96522dc1e3541f8f922e7db7eda7" title="Purpose: get GEM coordinates. " alt="" coords="226,570,401,611"/>
+<area shape="rect" id="node28" href="$classmodel__geos.html#a42ead9a241705cf11e18e05d84f5acc4" title="Purpose: get geos coordinates. " alt="" coords="222,47,405,88"/>
+<area shape="rect" id="node32" href="$classmodel__gfs.html#a830b1122b87d1c430ee37d4e524d8f68" title="Purpose: get GFS coordinates. " alt="" coords="235,112,391,154"/>
+<area shape="rect" id="node36" href="$classmodel__ifs.html#ada8c3914bb7d2312c41472408156f207" title="Purpose: get IFS coordinates. " alt="" coords="240,178,387,219"/>
+<area shape="rect" id="node40" href="$classmodel__mpas.html#aa827dbcc639905fadebca5e23474a2b4" title="Purpose: get MPAS coordinates. " alt="" coords="220,243,407,284"/>
+<area shape="rect" id="node44" href="$classmodel__nemo.html#aed3de9f194ee53fffb6c1bdf508b5691" title="Purpose: get NEMO coordinates. " alt="" coords="219,308,407,350"/>
+<area shape="rect" id="node48" href="$classmodel__wrf.html#a63ef13f319060e79e0e7a9fe1e1cc62a" title="Purpose: get WRF coordinates. " alt="" coords="236,374,391,415"/>
+<area shape="rect" id="node5" href="$classtools__nc.html#a37a2ba62c59b476eb07633377a95b4ce" title="Purpose: handle NetCDF error. " alt="" coords="485,258,595,285"/>
+<area shape="rect" id="node16" href="$classtype__sdata.html#afde33c1ca60cc0692f78a1666bfc12eb" title="Purpose: sdata object allocation for grid parameters. " alt="" coords="457,316,623,342"/>
+<area shape="rect" id="node9" href="$classtype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="883,258,1024,285"/>
+<area shape="rect" id="node11" href="$classtype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="1073,233,1207,260"/>
+<area shape="rect" id="node13" href="$classtype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="1256,258,1403,285"/>
+<area shape="rect" id="node18" href="$type__randgen_8h.html#a96c8017032a511489df30c1a9b04ec4d" title="create_randgen" alt="" coords="695,316,812,342"/>
+</map>

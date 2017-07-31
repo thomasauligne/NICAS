@@ -1,0 +1,12 @@
+<map id="module_apply_convol::convol_global" name="module_apply_convol::convol_global">
+<area shape="rect" id="node3" href="$classmodule__apply__convol.html#a9659a96bc009ddac1927cccc8492f3a4" title="Purpose: convolution. " alt="" coords="209,59,362,100"/>
+<area shape="rect" id="node5" href="$classmodule__apply__nicas.html#af891b000bef2e3f4c0c7a116ed30dab5" title="Purpose: apply NICAS method. " alt="" coords="415,156,561,198"/>
+<area shape="rect" id="node7" href="$classmodule__test.html#a923d4999a00963cf55ffd6512af05ebd" title="Purpose: test adjoints accuracy. " alt="" coords="613,33,792,60"/>
+<area shape="rect" id="node20" href="$classmodule__apply__nicas.html#ad834645adaa30ad1d83464a388fb0c5b" title="Purpose: apply NICAS method square&#45;root. " alt="" coords="415,26,561,67"/>
+<area shape="rect" id="node28" href="$classmodule__apply__nicas.html#a5278e7b3233d83b477ec8580b67fad2b" title="Purpose: apply NICAS method square&#45;root adjoint. " alt="" coords="411,91,565,132"/>
+<area shape="rect" id="node11" href="$classmodule__test.html#a7b922a1ee90c6c3d5e95644b024a3604" title="Purpose: test positive_definiteness. " alt="" coords="840,193,1019,220"/>
+<area shape="rect" id="node14" href="$classmodule__test.html#a800eb6ba8767aea66c4c90e6855927b9" title="Purpose: test single/mutli&#45;procs equivalence. " alt="" coords="853,142,1005,169"/>
+<area shape="rect" id="node17" href="$classmodule__test.html#a5a77c9dbbc68544635a1c6c80e6a8682" title="Purpose: apply NICAS to diracs. " alt="" coords="849,92,1010,118"/>
+<area shape="rect" id="node9" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="1067,117,1122,144"/>
+<area shape="rect" id="node22" href="$classmodule__apply__nicas.html#ae571f2b9e053e1abb8a3420bb02c2320" title="Purpose: apply NICAS method from its square&#45;root formulation. " alt="" coords="621,84,784,126"/>
+</map>

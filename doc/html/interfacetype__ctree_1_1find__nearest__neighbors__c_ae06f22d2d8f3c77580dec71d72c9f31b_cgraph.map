@@ -1,0 +1,5 @@
+<map id="type_ctree::find_nearest_neighbors_c::find_nearest_neighbors_c" name="type_ctree::find_nearest_neighbors_c::find_nearest_neighbors_c">
+<area shape="rect" id="node2" href="$namespacetype__ctree.html#a2f4f9685701a1f6342931101f1d15e90" title="Purpose: create a cover tree. " alt="" coords="254,5,383,47"/>
+<area shape="rect" id="node3" href="$namespacetype__ctree.html#abecf4614801cd13bef286be38b2612e1" title="Purpose: delete a cover tree. " alt="" coords="255,71,383,112"/>
+<area shape="rect" id="node4" href="$namespacetype__ctree.html#a59d0c1eca0b8bdc08161acecc3b0fd2d" title="Purpose: find nearest neighbors using a cover tree. " alt="" coords="236,136,401,177"/>
+</map>

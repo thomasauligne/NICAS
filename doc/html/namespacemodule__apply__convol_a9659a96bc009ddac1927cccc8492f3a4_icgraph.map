@@ -1,0 +1,11 @@
+<map id="module_apply_convol::convol" name="module_apply_convol::convol">
+<area shape="rect" id="node2" href="$namespacemodule__apply__nicas.html#af891b000bef2e3f4c0c7a116ed30dab5" title="Purpose: apply NICAS method. " alt="" coords="208,158,352,199"/>
+<area shape="rect" id="node3" href="$namespacemodule__test.html#a923d4999a00963cf55ffd6512af05ebd" title="Purpose: test adjoints accuracy. " alt="" coords="404,34,581,61"/>
+<area shape="rect" id="node8" href="$namespacemodule__apply__nicas.html#ad834645adaa30ad1d83464a388fb0c5b" title="Purpose: apply NICAS method square&#45;root. " alt="" coords="208,27,352,68"/>
+<area shape="rect" id="node10" href="$namespacemodule__apply__nicas.html#a5278e7b3233d83b477ec8580b67fad2b" title="Purpose: apply NICAS method square&#45;root adjoint. " alt="" coords="204,92,356,134"/>
+<area shape="rect" id="node5" href="$namespacemodule__test.html#a7b922a1ee90c6c3d5e95644b024a3604" title="Purpose: test positive_definiteness. " alt="" coords="629,194,808,221"/>
+<area shape="rect" id="node6" href="$namespacemodule__test.html#a800eb6ba8767aea66c4c90e6855927b9" title="Purpose: test single/mutli&#45;procs equivalence. " alt="" coords="643,144,795,170"/>
+<area shape="rect" id="node7" href="$namespacemodule__test.html#a5a77c9dbbc68544635a1c6c80e6a8682" title="Purpose: apply NICAS to diracs. " alt="" coords="639,93,799,120"/>
+<area shape="rect" id="node4" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="856,118,909,145"/>
+<area shape="rect" id="node9" href="$namespacemodule__apply__nicas.html#ae571f2b9e053e1abb8a3420bb02c2320" title="Purpose: apply NICAS method from its square&#45;root formulation. " alt="" coords="411,86,575,127"/>
+</map>

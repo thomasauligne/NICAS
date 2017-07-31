@@ -1,0 +1,7 @@
+<map id="tools_const::sphere_dist" name="tools_const::sphere_dist">
+<area shape="rect" id="node3" href="$classmodule__parameters.html#a6fe75e47365378295557ce958c19ca2f" title="Purpose: compute grid mesh. " alt="" coords="229,5,379,46"/>
+<area shape="rect" id="node9" href="$classmodule__parameters.html#a2239ff8237ff6107837f43234f1adc12" title="Purpose: compute subgrid mesh. " alt="" coords="222,70,386,111"/>
+<area shape="rect" id="node12" href="$classmodule__test.html#a5a77c9dbbc68544635a1c6c80e6a8682" title="Purpose: apply NICAS to diracs. " alt="" coords="435,136,597,163"/>
+<area shape="rect" id="node5" href="$classmodule__parameters.html#a5182d8aadb6616c59357aba86ce63879" title="Purpose: compute NICAS parameters. " alt="" coords="441,70,591,111"/>
+<area shape="rect" id="node7" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="646,107,701,133"/>
+</map>

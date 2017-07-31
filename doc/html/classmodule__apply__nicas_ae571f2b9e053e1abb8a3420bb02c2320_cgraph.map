@@ -1,0 +1,22 @@
+<map id="module_apply_nicas::apply_nicas_from_sqrt" name="module_apply_nicas::apply_nicas_from_sqrt">
+<area shape="rect" id="node3" href="$classmodule__apply__nicas.html#a5278e7b3233d83b477ec8580b67fad2b" title="Purpose: apply NICAS method square&#45;root adjoint. " alt="" coords="217,166,370,207"/>
+<area shape="rect" id="node35" href="$classmodule__apply__nicas.html#ad834645adaa30ad1d83464a388fb0c5b" title="Purpose: apply NICAS method square&#45;root. " alt="" coords="221,247,366,289"/>
+<area shape="rect" id="node5" href="$classmodule__apply__com.html#ab4bb26755dd2a3986e2656c615d101ff" title="Purpose: communicate full field from global to local distribution. " alt="" coords="419,11,581,53"/>
+<area shape="rect" id="node7" href="$classmodule__apply__interp.html#a1db8b086d3d84de58b75f03003019b68" title="Purpose: interpolation adjoint. " alt="" coords="427,77,573,118"/>
+<area shape="rect" id="node25" href="$classmodule__apply__convol.html#a9659a96bc009ddac1927cccc8492f3a4" title="Purpose: convolution. " alt="" coords="423,174,577,215"/>
+<area shape="rect" id="node9" href="$classmodule__apply__interp.html#a0bc139b19d963cf2f480ce09a5c68603" title="Purpose: interpolation adjoint, global. " alt="" coords="634,5,779,46"/>
+<area shape="rect" id="node22" href="$classmodule__apply__interp.html#a59b610ff153518c5231ba72658d98b0f" title="Purpose: interpolation adjoint, local. " alt="" coords="634,70,779,111"/>
+<area shape="rect" id="node11" href="$classtype__linop.html#aa3e44ba0b4e0854c7a32f05e1de66a0a" title="Purpose: apply linear operator, adjoint. " alt="" coords="837,77,1017,104"/>
+<area shape="rect" id="node13" href="$classtools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="1069,176,1232,203"/>
+<area shape="rect" id="node15" href="$classtype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="1280,176,1421,203"/>
+<area shape="rect" id="node17" href="$classtype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="1470,151,1605,177"/>
+<area shape="rect" id="node19" href="$classtype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="1653,176,1800,203"/>
+<area shape="rect" id="node27" href="$classmodule__apply__convol.html#aa29cc79529d25fc13a7b3c48cb5eab6b" title="Purpose: convolution, global. " alt="" coords="630,135,783,177"/>
+<area shape="rect" id="node32" href="$classmodule__apply__convol.html#a87ab68af4b3a9fa89046b0789d7e4219" title="Purpose: convolution, local. " alt="" coords="630,201,783,242"/>
+<area shape="rect" id="node29" href="$classtype__linop.html#ad859e926e4d13329dbf2baa5abcdbe5e" title="Purpose: apply linear operator, symmetric. " alt="" coords="832,176,1021,203"/>
+<area shape="rect" id="node38" href="$classmodule__apply__interp.html#ab9b1df0d0a05eea64a1d0ebb8e20f311" title="Purpose: interpolation. " alt="" coords="427,259,573,301"/>
+<area shape="rect" id="node48" href="$classmodule__apply__com.html#a866aa117060240e927335ae518322c1c" title="Purpose: communicate full field from local to global distribution. " alt="" coords="419,325,581,366"/>
+<area shape="rect" id="node40" href="$classmodule__apply__interp.html#a0523cd7d882d0e5178707dbd9d0551e5" title="Purpose: interpolation, global. " alt="" coords="634,266,779,307"/>
+<area shape="rect" id="node45" href="$classmodule__apply__interp.html#a1802fbae08d7cd1a5aaed3528e603fdb" title="Purpose: interpolation, local. " alt="" coords="634,331,779,373"/>
+<area shape="rect" id="node42" href="$classtype__linop.html#a135e120b56157fbf081d37a130e0dc6c" title="Purpose: apply linear operator. " alt="" coords="848,273,1005,300"/>
+</map>

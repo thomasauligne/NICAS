@@ -1,0 +1,9 @@
+<map id="tools_display::prog_init" name="tools_display::prog_init">
+<area shape="rect" id="node3" href="$classmodule__normalization.html#ab9ad82047da38902f6342b3e42969b70" title="Purpose: compute normalization. " alt="" coords="451,7,619,49"/>
+<area shape="rect" id="node7" href="$classmodule__parameters__convol.html#a1667ac34181b0eda142a7f1c628dc88d" title="Purpose: compute convolution with a network approach. " alt="" coords="213,37,403,78"/>
+<area shape="rect" id="node12" href="$classmodule__parameters__convol.html#a386fc9afa1ab7cc27130dcd93630f118" title="Purpose: compute convolution with a distance approach. " alt="" coords="213,102,403,143"/>
+<area shape="rect" id="node15" href="$classmodule__parameters__interp.html#ab7d02f80627281d546312adcd39ccfd4" title="Purpose: compute basic horizontal interpolation. " alt="" coords="217,167,399,209"/>
+<area shape="rect" id="node18" href="$classmodule__parameters__interp.html#a282b384b5fdc02b7fb27ee1a79893151" title="Purpose: compute horizontal subsampling interpolation. " alt="" coords="217,233,399,274"/>
+<area shape="rect" id="node5" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="667,63,722,89"/>
+<area shape="rect" id="node9" href="$classmodule__parameters.html#a5182d8aadb6616c59357aba86ce63879" title="Purpose: compute NICAS parameters. " alt="" coords="459,102,610,143"/>
+</map>

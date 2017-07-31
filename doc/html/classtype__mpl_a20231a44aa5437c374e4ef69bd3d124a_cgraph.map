@@ -1,0 +1,6 @@
+<map id="type_mpl::mpl_start" name="type_mpl::mpl_start">
+<area shape="rect" id="node3" href="$classtype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="197,56,344,83"/>
+<area shape="rect" id="node10" href="$classtools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="189,5,352,32"/>
+<area shape="rect" id="node5" href="$classtype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="400,5,541,32"/>
+<area shape="rect" id="node7" href="$classtype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="590,31,725,57"/>
+</map>

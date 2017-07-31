@@ -1,0 +1,7 @@
+<map id="module_apply_convol::convol_global" name="module_apply_convol::convol_global">
+<area shape="rect" id="node2" href="$namespacetype__linop.html#ad859e926e4d13329dbf2baa5abcdbe5e" title="Purpose: apply linear operator, symmetric. " alt="" coords="204,31,393,57"/>
+<area shape="rect" id="node3" href="$namespacetools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="441,31,601,57"/>
+<area shape="rect" id="node4" href="$namespacetype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="649,31,792,57"/>
+<area shape="rect" id="node5" href="$namespacetype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="840,5,975,32"/>
+<area shape="rect" id="node6" href="$namespacetype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="1023,31,1169,57"/>
+</map>

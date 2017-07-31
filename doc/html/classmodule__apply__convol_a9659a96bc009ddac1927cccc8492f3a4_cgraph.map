@@ -1,0 +1,9 @@
+<map id="module_apply_convol::convol" name="module_apply_convol::convol">
+<area shape="rect" id="node3" href="$classmodule__apply__convol.html#aa29cc79529d25fc13a7b3c48cb5eab6b" title="Purpose: convolution, global. " alt="" coords="209,5,362,46"/>
+<area shape="rect" id="node16" href="$classmodule__apply__convol.html#a87ab68af4b3a9fa89046b0789d7e4219" title="Purpose: convolution, local. " alt="" coords="209,70,362,111"/>
+<area shape="rect" id="node5" href="$classtype__linop.html#ad859e926e4d13329dbf2baa5abcdbe5e" title="Purpose: apply linear operator, symmetric. " alt="" coords="411,45,600,72"/>
+<area shape="rect" id="node7" href="$classtools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="648,45,811,72"/>
+<area shape="rect" id="node9" href="$classtype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="859,45,1000,72"/>
+<area shape="rect" id="node11" href="$classtype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="1049,20,1183,47"/>
+<area shape="rect" id="node13" href="$classtype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="1232,45,1379,72"/>
+</map>

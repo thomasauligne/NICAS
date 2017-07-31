@@ -1,0 +1,13 @@
+<map id="type_sdata::sdata_alloc" name="type_sdata::sdata_alloc">
+<area shape="rect" id="node2" href="$namespacemodel__aro.html#a83dc96986d36cbf44aa321b8e325e05c" title="Purpose: load AROME coordinates. " alt="" coords="230,5,386,47"/>
+<area shape="rect" id="node5" href="$namespacemodel__arp.html#a6006846f6aea6f12a22d87c933a74ccf" title="Purpose: get ARPEGE coordinates. " alt="" coords="230,71,386,112"/>
+<area shape="rect" id="node6" href="$namespacemodel__gem.html#a580a96522dc1e3541f8f922e7db7eda7" title="Purpose: get GEM coordinates. " alt="" coords="223,136,393,177"/>
+<area shape="rect" id="node7" href="$namespacemodel__geos.html#a42ead9a241705cf11e18e05d84f5acc4" title="Purpose: get geos coordinates. " alt="" coords="221,201,395,243"/>
+<area shape="rect" id="node8" href="$namespacemodel__gfs.html#a830b1122b87d1c430ee37d4e524d8f68" title="Purpose: get GFS coordinates. " alt="" coords="232,267,384,308"/>
+<area shape="rect" id="node9" href="$namespacemodel__ifs.html#ada8c3914bb7d2312c41472408156f207" title="Purpose: get IFS coordinates. " alt="" coords="236,332,380,373"/>
+<area shape="rect" id="node10" href="$namespacemodel__mpas.html#aa827dbcc639905fadebca5e23474a2b4" title="Purpose: get MPAS coordinates. " alt="" coords="217,397,399,439"/>
+<area shape="rect" id="node11" href="$namespacemodel__nemo.html#aed3de9f194ee53fffb6c1bdf508b5691" title="Purpose: get NEMO coordinates. " alt="" coords="216,463,400,504"/>
+<area shape="rect" id="node12" href="$namespacemodel__wrf.html#a63ef13f319060e79e0e7a9fe1e1cc62a" title="Purpose: get WRF coordinates. " alt="" coords="232,528,384,569"/>
+<area shape="rect" id="node3" href="$namespacemodel__interface.html#a07672885975d67b5a394f7480f0cf7b7" title="Purpose: get coordinates. " alt="" coords="448,267,608,308"/>
+<area shape="rect" id="node4" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="656,274,709,301"/>
+</map>

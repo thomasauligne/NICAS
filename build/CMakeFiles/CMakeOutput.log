@@ -1,0 +1,567 @@
+The system is: Linux - 3.12.62-60.64.8-default - x86_64
+Compiling the Fortran compiler identification source file "CMakeFortranCompilerId.F" succeeded.
+Compiler: /glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/mpifort 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the Fortran compiler identification source "CMakeFortranCompilerId.F" produced "a.out"
+
+The Fortran compiler identification is GNU, found in "/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/2.8.12.1/CompilerIdFortran/a.out"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/gcc 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/2.8.12.1/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/g++ 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/2.8.12.1/CompilerIdCXX/a.out"
+
+Determining if the Fortran compiler works passed with the following output:
+Change Dir: /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3793310866/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3793310866.dir/build.make CMakeFiles/cmTryCompileExec3793310866.dir/build
+gmake[1]: Entering directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building Fortran object CMakeFiles/cmTryCompileExec3793310866.dir/testFortranCompiler.f.o
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/mpifort    -c /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/testFortranCompiler.f -o CMakeFiles/cmTryCompileExec3793310866.dir/testFortranCompiler.f.o
+Linking Fortran executable cmTryCompileExec3793310866
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3793310866.dir/link.txt --verbose=1
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/mpifort       CMakeFiles/cmTryCompileExec3793310866.dir/testFortranCompiler.f.o  -o cmTryCompileExec3793310866 -rdynamic 
+gmake[1]: Leaving directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+
+
+Detecting Fortran compiler ABI info compiled with the following output:
+Change Dir: /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1216155565/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1216155565.dir/build.make CMakeFiles/cmTryCompileExec1216155565.dir/build
+gmake[1]: Entering directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building Fortran object CMakeFiles/cmTryCompileExec1216155565.dir/CMakeFortranCompilerABI.F.o
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/mpifort    -c /usr/share/cmake/Modules/CMakeFortranCompilerABI.F -o CMakeFiles/cmTryCompileExec1216155565.dir/CMakeFortranCompilerABI.F.o
+Linking Fortran executable cmTryCompileExec1216155565
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1216155565.dir/link.txt --verbose=1
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/mpifort   -v   CMakeFiles/cmTryCompileExec1216155565.dir/CMakeFortranCompilerABI.F.o  -o cmTryCompileExec1216155565 -rdynamic  
+Driving: /glade/u/apps/ch/opt/gnu/6.3.0/bin/gfortran -v CMakeFiles/cmTryCompileExec1216155565.dir/CMakeFortranCompilerABI.F.o -o cmTryCompileExec1216155565 -rdynamic -I/glade/u/apps/ch/os/usr/include -I/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include -L/glade/u/apps/ch/os/usr/lib64 -L/glade/u/apps/ch/os/lib64 -L/glade/u/apps/ch/os/usr/lib -L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -L/glade/u/apps/ch/os/lib -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Wl,--disable-new-dtags -Wl,-rpath,/glade/u/apps/ch/os/usr/lib64 -Wl,-rpath,/glade/u/apps/ch/os/lib64 -Wl,-rpath,/glade/u/apps/ch/os/usr/lib -Wl,-rpath,/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -Wl,-rpath,/glade/u/apps/ch/os/lib -Wl,-rpath,/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Wl,-Bstatic -lnetcdff -lnetcdf -lhdf5_hl -lhdf5 -lsz -lz -Wl,-Bdynamic -l gfortran -lm -ldl -lrt -ldl -I/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/include -pthread -I/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/pbs_copy/lib -Wl,-rpath -Wl,/glade/u/apps/ch/opt/pbs_copy/lib -Wl,-rpath -Wl,/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Wl,--enable-new-dtags -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lopen-rte -lopen-pal -l gfortran -lm -lpciaccess -losmcomp -libverbs -lrdmacm -lpbs -lgpfs -lpsm_infinipath -lutil -l gfortran -l m -shared-libgcc
+Using built-in specs.
+COLLECT_GCC=/glade/u/apps/ch/opt/gnu/6.3.0/bin/gfortran
+COLLECT_LTO_WRAPPER=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper
+Target: x86_64-pc-linux-gnu
+Configured with: ../gcc-6.3.0/configure --prefix=/glade/u/apps/ch/opt/gnu/6.3.0 --enable-languages=c,c++,fortran,lto --enable-threads --disable-multilib
+Thread model: posix
+gcc version 6.3.0 (GCC) 
+Reading specs from /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64/libgfortran.spec
+rename spec lib to liborig
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec1216155565' '-rdynamic' '-I' '/glade/u/apps/ch/os/usr/include' '-I' '/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include' '-L/glade/u/apps/ch/os/usr/lib64' '-L/glade/u/apps/ch/os/lib64' '-L/glade/u/apps/ch/os/usr/lib' '-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib' '-L/glade/u/apps/ch/os/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-I' '/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/include' '-pthread' '-I' '/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-L/glade/u/apps/ch/opt/pbs_copy/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+COMPILER_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/
+LIBRARY_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec1216155565' '-rdynamic' '-I' '/glade/u/apps/ch/os/usr/include' '-I' '/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include' '-L/glade/u/apps/ch/os/usr/lib64' '-L/glade/u/apps/ch/os/lib64' '-L/glade/u/apps/ch/os/usr/lib' '-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib' '-L/glade/u/apps/ch/os/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-I' '/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/include' '-pthread' '-I' '/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-L/glade/u/apps/ch/opt/pbs_copy/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/collect2 -plugin /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/liblto_plugin.so -plugin-opt=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper -plugin-opt=-fresolution=/glade/scratch/auligne/ccdkPQdF.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lquadmath -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec1216155565 /usr/lib/../lib64/crt1.o /usr/lib/../lib64/crti.o /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtbegin.o -L/glade/u/apps/ch/os/usr/lib64 -L/glade/u/apps/ch/os/lib64 -L/glade/u/apps/ch/os/usr/lib -L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -L/glade/u/apps/ch/os/lib -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/pbs_copy/lib -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0 -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../.. CMakeFiles/cmTryCompileExec1216155565.dir/CMakeFortranCompilerABI.F.o --disable-new-dtags -rpath /glade/u/apps/ch/os/usr/lib64 -rpath /glade/u/apps/ch/os/lib64 -rpath /glade/u/apps/ch/os/usr/lib -rpath /glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -rpath /glade/u/apps/ch/os/lib -rpath /glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Bstatic -lnetcdff -lnetcdf -lhdf5_hl -lhdf5 -lsz -lz -Bdynamic -lgfortran -lm -ldl -lrt -ldl -rpath /glade/u/apps/ch/opt/pbs_copy/lib -rpath /glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib --enable-new-dtags -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lopen-rte -lopen-pal -lgfortran -lm -lpciaccess -losmcomp -libverbs -lrdmacm -lpbs -lgpfs -lpsm_infinipath -lutil -lgfortran -lm -lgcc_s -lgcc -lquadmath -lm -lgcc_s -lgcc -lpthread -lc -lgcc_s -lgcc /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtend.o /usr/lib/../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec1216155565' '-rdynamic' '-I' '/glade/u/apps/ch/os/usr/include' '-I' '/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include' '-L/glade/u/apps/ch/os/usr/lib64' '-L/glade/u/apps/ch/os/lib64' '-L/glade/u/apps/ch/os/usr/lib' '-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib' '-L/glade/u/apps/ch/os/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-I' '/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/include' '-pthread' '-I' '/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-L/glade/u/apps/ch/opt/pbs_copy/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+gmake[1]: Leaving directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+
+
+Parsed Fortran implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:/usr/bin/gmake "cmTryCompileExec1216155565/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1216155565.dir/build.make CMakeFiles/cmTryCompileExec1216155565.dir/build]
+  ignore line: [gmake[1]: Entering directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/bin/cmake -E cmake_progress_report /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building Fortran object CMakeFiles/cmTryCompileExec1216155565.dir/CMakeFortranCompilerABI.F.o]
+  ignore line: [/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/mpifort    -c /usr/share/cmake/Modules/CMakeFortranCompilerABI.F -o CMakeFiles/cmTryCompileExec1216155565.dir/CMakeFortranCompilerABI.F.o]
+  ignore line: [Linking Fortran executable cmTryCompileExec1216155565]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1216155565.dir/link.txt --verbose=1]
+  ignore line: [/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/mpifort   -v   CMakeFiles/cmTryCompileExec1216155565.dir/CMakeFortranCompilerABI.F.o  -o cmTryCompileExec1216155565 -rdynamic  ]
+  ignore line: [Driving: /glade/u/apps/ch/opt/gnu/6.3.0/bin/gfortran -v CMakeFiles/cmTryCompileExec1216155565.dir/CMakeFortranCompilerABI.F.o -o cmTryCompileExec1216155565 -rdynamic -I/glade/u/apps/ch/os/usr/include -I/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include -L/glade/u/apps/ch/os/usr/lib64 -L/glade/u/apps/ch/os/lib64 -L/glade/u/apps/ch/os/usr/lib -L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -L/glade/u/apps/ch/os/lib -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Wl,--disable-new-dtags -Wl,-rpath,/glade/u/apps/ch/os/usr/lib64 -Wl,-rpath,/glade/u/apps/ch/os/lib64 -Wl,-rpath,/glade/u/apps/ch/os/usr/lib -Wl,-rpath,/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -Wl,-rpath,/glade/u/apps/ch/os/lib -Wl,-rpath,/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Wl,-Bstatic -lnetcdff -lnetcdf -lhdf5_hl -lhdf5 -lsz -lz -Wl,-Bdynamic -l gfortran -lm -ldl -lrt -ldl -I/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/include -pthread -I/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/pbs_copy/lib -Wl,-rpath -Wl,/glade/u/apps/ch/opt/pbs_copy/lib -Wl,-rpath -Wl,/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Wl,--enable-new-dtags -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lopen-rte -lopen-pal -l gfortran -lm -lpciaccess -losmcomp -libverbs -lrdmacm -lpbs -lgpfs -lpsm_infinipath -lutil -l gfortran -l m -shared-libgcc]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/glade/u/apps/ch/opt/gnu/6.3.0/bin/gfortran]
+  ignore line: [COLLECT_LTO_WRAPPER=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper]
+  ignore line: [Target: x86_64-pc-linux-gnu]
+  ignore line: [Configured with: ../gcc-6.3.0/configure --prefix=/glade/u/apps/ch/opt/gnu/6.3.0 --enable-languages=c,c++,fortran,lto --enable-threads --disable-multilib]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 6.3.0 (GCC) ]
+  ignore line: [Reading specs from /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64/libgfortran.spec]
+  ignore line: [rename spec lib to liborig]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec1216155565' '-rdynamic' '-I' '/glade/u/apps/ch/os/usr/include' '-I' '/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include' '-L/glade/u/apps/ch/os/usr/lib64' '-L/glade/u/apps/ch/os/lib64' '-L/glade/u/apps/ch/os/usr/lib' '-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib' '-L/glade/u/apps/ch/os/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-I' '/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/include' '-pthread' '-I' '/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-L/glade/u/apps/ch/opt/pbs_copy/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [COMPILER_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec1216155565' '-rdynamic' '-I' '/glade/u/apps/ch/os/usr/include' '-I' '/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include' '-L/glade/u/apps/ch/os/usr/lib64' '-L/glade/u/apps/ch/os/lib64' '-L/glade/u/apps/ch/os/usr/lib' '-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib' '-L/glade/u/apps/ch/os/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-I' '/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/include' '-pthread' '-I' '/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-L/glade/u/apps/ch/opt/pbs_copy/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/collect2 -plugin /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/liblto_plugin.so -plugin-opt=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper -plugin-opt=-fresolution=/glade/scratch/auligne/ccdkPQdF.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lquadmath -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec1216155565 /usr/lib/../lib64/crt1.o /usr/lib/../lib64/crti.o /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtbegin.o -L/glade/u/apps/ch/os/usr/lib64 -L/glade/u/apps/ch/os/lib64 -L/glade/u/apps/ch/os/usr/lib -L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -L/glade/u/apps/ch/os/lib -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/pbs_copy/lib -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0 -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../.. CMakeFiles/cmTryCompileExec1216155565.dir/CMakeFortranCompilerABI.F.o --disable-new-dtags -rpath /glade/u/apps/ch/os/usr/lib64 -rpath /glade/u/apps/ch/os/lib64 -rpath /glade/u/apps/ch/os/usr/lib -rpath /glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -rpath /glade/u/apps/ch/os/lib -rpath /glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Bstatic -lnetcdff -lnetcdf -lhdf5_hl -lhdf5 -lsz -lz -Bdynamic -lgfortran -lm -ldl -lrt -ldl -rpath /glade/u/apps/ch/opt/pbs_copy/lib -rpath /glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib --enable-new-dtags -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lopen-rte -lopen-pal -lgfortran -lm -lpciaccess -losmcomp -libverbs -lrdmacm -lpbs -lgpfs -lpsm_infinipath -lutil -lgfortran -lm -lgcc_s -lgcc -lquadmath -lm -lgcc_s -lgcc -lpthread -lc -lgcc_s -lgcc /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtend.o /usr/lib/../lib64/crtn.o]
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/glade/scratch/auligne/ccdkPQdF.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lquadmath] ==> ignore
+    arg [-plugin-opt=-pass-through=-lm] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec1216155565] ==> ignore
+    arg [/usr/lib/../lib64/crt1.o] ==> ignore
+    arg [/usr/lib/../lib64/crti.o] ==> ignore
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtbegin.o] ==> ignore
+    arg [-L/glade/u/apps/ch/os/usr/lib64] ==> dir [/glade/u/apps/ch/os/usr/lib64]
+    arg [-L/glade/u/apps/ch/os/lib64] ==> dir [/glade/u/apps/ch/os/lib64]
+    arg [-L/glade/u/apps/ch/os/usr/lib] ==> dir [/glade/u/apps/ch/os/usr/lib]
+    arg [-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib] ==> dir [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib]
+    arg [-L/glade/u/apps/ch/os/lib] ==> dir [/glade/u/apps/ch/os/lib]
+    arg [-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+    arg [-L/glade/u/apps/ch/opt/pbs_copy/lib] ==> dir [/glade/u/apps/ch/opt/pbs_copy/lib]
+    arg [-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+    arg [-L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0] ==> dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0]
+    arg [-L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64] ==> dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+    arg [-L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../..] ==> dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../..]
+    arg [CMakeFiles/cmTryCompileExec1216155565.dir/CMakeFortranCompilerABI.F.o] ==> ignore
+    arg [--disable-new-dtags] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/usr/lib64] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/lib64] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/usr/lib] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/lib] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> ignore
+    arg [-Bstatic] ==> ignore
+    arg [-lnetcdff] ==> lib [netcdff]
+    arg [-lnetcdf] ==> lib [netcdf]
+    arg [-lhdf5_hl] ==> lib [hdf5_hl]
+    arg [-lhdf5] ==> lib [hdf5]
+    arg [-lsz] ==> lib [sz]
+    arg [-lz] ==> lib [z]
+    arg [-Bdynamic] ==> ignore
+    arg [-lgfortran] ==> lib [gfortran]
+    arg [-lm] ==> lib [m]
+    arg [-ldl] ==> lib [dl]
+    arg [-lrt] ==> lib [rt]
+    arg [-ldl] ==> lib [dl]
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/opt/pbs_copy/lib] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> ignore
+    arg [--enable-new-dtags] ==> ignore
+    arg [-lmpi_usempif08] ==> lib [mpi_usempif08]
+    arg [-lmpi_usempi_ignore_tkr] ==> lib [mpi_usempi_ignore_tkr]
+    arg [-lmpi_mpifh] ==> lib [mpi_mpifh]
+    arg [-lmpi] ==> lib [mpi]
+    arg [-lopen-rte] ==> lib [open-rte]
+    arg [-lopen-pal] ==> lib [open-pal]
+    arg [-lgfortran] ==> lib [gfortran]
+    arg [-lm] ==> lib [m]
+    arg [-lpciaccess] ==> lib [pciaccess]
+    arg [-losmcomp] ==> lib [osmcomp]
+    arg [-libverbs] ==> lib [ibverbs]
+    arg [-lrdmacm] ==> lib [rdmacm]
+    arg [-lpbs] ==> lib [pbs]
+    arg [-lgpfs] ==> lib [gpfs]
+    arg [-lpsm_infinipath] ==> lib [psm_infinipath]
+    arg [-lutil] ==> lib [util]
+    arg [-lgfortran] ==> lib [gfortran]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lquadmath] ==> lib [quadmath]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lpthread] ==> lib [pthread]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtend.o] ==> ignore
+    arg [/usr/lib/../lib64/crtn.o] ==> ignore
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  collapse library dir [/glade/u/apps/ch/os/usr/lib64] ==> [/glade/u/apps/ch/os/usr/lib64]
+  collapse library dir [/glade/u/apps/ch/os/lib64] ==> [/glade/u/apps/ch/os/lib64]
+  collapse library dir [/glade/u/apps/ch/os/usr/lib] ==> [/glade/u/apps/ch/os/usr/lib]
+  collapse library dir [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib] ==> [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib]
+  collapse library dir [/glade/u/apps/ch/os/lib] ==> [/glade/u/apps/ch/os/lib]
+  collapse library dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+  collapse library dir [/glade/u/apps/ch/opt/pbs_copy/lib] ==> [/glade/u/apps/ch/opt/pbs_copy/lib]
+  collapse library dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+  collapse library dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0] ==> [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0]
+  collapse library dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64] ==> [/glade/u/apps/ch/opt/gnu/6.3.0/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+  collapse library dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../..] ==> [/glade/u/apps/ch/opt/gnu/6.3.0/lib]
+  implicit libs: [netcdff;netcdf;hdf5_hl;hdf5;sz;z;gfortran;m;dl;rt;dl;mpi_usempif08;mpi_usempi_ignore_tkr;mpi_mpifh;mpi;open-rte;open-pal;gfortran;m;pciaccess;osmcomp;ibverbs;rdmacm;pbs;gpfs;psm_infinipath;util;gfortran;m;quadmath;m;pthread;c]
+  implicit dirs: [/glade/u/apps/ch/os/usr/lib64;/glade/u/apps/ch/os/lib64;/glade/u/apps/ch/os/usr/lib;/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib;/glade/u/apps/ch/os/lib;/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib;/glade/u/apps/ch/opt/pbs_copy/lib;/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0;/glade/u/apps/ch/opt/gnu/6.3.0/lib64;/lib64;/usr/lib64;/glade/u/apps/ch/opt/gnu/6.3.0/lib]
+  implicit fwks: []
+
+
+Determining if the Fortran compiler supports Fortran 90 passed with the following output:
+Change Dir: /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3928670392/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3928670392.dir/build.make CMakeFiles/cmTryCompileExec3928670392.dir/build
+gmake[1]: Entering directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building Fortran object CMakeFiles/cmTryCompileExec3928670392.dir/testFortranCompilerF90.f90.o
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/mpifort    -c /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/testFortranCompilerF90.f90 -o CMakeFiles/cmTryCompileExec3928670392.dir/testFortranCompilerF90.f90.o
+Linking Fortran executable cmTryCompileExec3928670392
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3928670392.dir/link.txt --verbose=1
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/mpifort       CMakeFiles/cmTryCompileExec3928670392.dir/testFortranCompilerF90.f90.o  -o cmTryCompileExec3928670392 -rdynamic 
+gmake[1]: Leaving directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec564702106/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec564702106.dir/build.make CMakeFiles/cmTryCompileExec564702106.dir/build
+gmake[1]: Entering directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec564702106.dir/testCCompiler.c.o
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/gcc    -o CMakeFiles/cmTryCompileExec564702106.dir/testCCompiler.c.o   -c /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTryCompileExec564702106
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec564702106.dir/link.txt --verbose=1
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/gcc       CMakeFiles/cmTryCompileExec564702106.dir/testCCompiler.c.o  -o cmTryCompileExec564702106 -rdynamic 
+gmake[1]: Leaving directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec784423368/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec784423368.dir/build.make CMakeFiles/cmTryCompileExec784423368.dir/build
+gmake[1]: Entering directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec784423368.dir/CMakeCCompilerABI.c.o
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/gcc    -o CMakeFiles/cmTryCompileExec784423368.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake/Modules/CMakeCCompilerABI.c
+Linking C executable cmTryCompileExec784423368
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec784423368.dir/link.txt --verbose=1
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/gcc     -v CMakeFiles/cmTryCompileExec784423368.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec784423368 -rdynamic  
+Using built-in specs.
+COLLECT_GCC=/glade/u/apps/ch/opt/gnu/6.3.0/bin/gcc
+COLLECT_LTO_WRAPPER=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper
+Target: x86_64-pc-linux-gnu
+Configured with: ../gcc-6.3.0/configure --prefix=/glade/u/apps/ch/opt/gnu/6.3.0 --enable-languages=c,c++,fortran,lto --enable-threads --disable-multilib
+Thread model: posix
+gcc version 6.3.0 (GCC) 
+COMPILER_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/
+LIBRARY_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec784423368' '-rdynamic' '-I' '/glade/u/apps/ch/os/usr/include' '-I' '/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include' '-L/glade/u/apps/ch/os/usr/lib64' '-L/glade/u/apps/ch/os/lib64' '-L/glade/u/apps/ch/os/usr/lib' '-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib' '-L/glade/u/apps/ch/os/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-mtune=generic' '-march=x86-64'
+ /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/collect2 -plugin /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/liblto_plugin.so -plugin-opt=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper -plugin-opt=-fresolution=/glade/scratch/auligne/cc9VWvOy.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec784423368 /usr/lib/../lib64/crt1.o /usr/lib/../lib64/crti.o /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtbegin.o -L/glade/u/apps/ch/os/usr/lib64 -L/glade/u/apps/ch/os/lib64 -L/glade/u/apps/ch/os/usr/lib -L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -L/glade/u/apps/ch/os/lib -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0 -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../.. CMakeFiles/cmTryCompileExec784423368.dir/CMakeCCompilerABI.c.o --disable-new-dtags -rpath /glade/u/apps/ch/os/usr/lib64 -rpath /glade/u/apps/ch/os/lib64 -rpath /glade/u/apps/ch/os/usr/lib -rpath /glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -rpath /glade/u/apps/ch/os/lib -rpath /glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Bstatic -lnetcdff -lnetcdf -lhdf5_hl -lhdf5 -lsz -lz -Bdynamic -lm -ldl -lrt -ldl -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtend.o /usr/lib/../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec784423368' '-rdynamic' '-I' '/glade/u/apps/ch/os/usr/include' '-I' '/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include' '-L/glade/u/apps/ch/os/usr/lib64' '-L/glade/u/apps/ch/os/lib64' '-L/glade/u/apps/ch/os/usr/lib' '-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib' '-L/glade/u/apps/ch/os/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-mtune=generic' '-march=x86-64'
+gmake[1]: Leaving directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:/usr/bin/gmake "cmTryCompileExec784423368/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTryCompileExec784423368.dir/build.make CMakeFiles/cmTryCompileExec784423368.dir/build]
+  ignore line: [gmake[1]: Entering directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/bin/cmake -E cmake_progress_report /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building C object CMakeFiles/cmTryCompileExec784423368.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/gcc    -o CMakeFiles/cmTryCompileExec784423368.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTryCompileExec784423368]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec784423368.dir/link.txt --verbose=1]
+  ignore line: [/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/gcc     -v CMakeFiles/cmTryCompileExec784423368.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec784423368 -rdynamic  ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/glade/u/apps/ch/opt/gnu/6.3.0/bin/gcc]
+  ignore line: [COLLECT_LTO_WRAPPER=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper]
+  ignore line: [Target: x86_64-pc-linux-gnu]
+  ignore line: [Configured with: ../gcc-6.3.0/configure --prefix=/glade/u/apps/ch/opt/gnu/6.3.0 --enable-languages=c,c++,fortran,lto --enable-threads --disable-multilib]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 6.3.0 (GCC) ]
+  ignore line: [COMPILER_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec784423368' '-rdynamic' '-I' '/glade/u/apps/ch/os/usr/include' '-I' '/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include' '-L/glade/u/apps/ch/os/usr/lib64' '-L/glade/u/apps/ch/os/lib64' '-L/glade/u/apps/ch/os/usr/lib' '-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib' '-L/glade/u/apps/ch/os/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-mtune=generic' '-march=x86-64']
+  link line: [ /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/collect2 -plugin /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/liblto_plugin.so -plugin-opt=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper -plugin-opt=-fresolution=/glade/scratch/auligne/cc9VWvOy.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec784423368 /usr/lib/../lib64/crt1.o /usr/lib/../lib64/crti.o /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtbegin.o -L/glade/u/apps/ch/os/usr/lib64 -L/glade/u/apps/ch/os/lib64 -L/glade/u/apps/ch/os/usr/lib -L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -L/glade/u/apps/ch/os/lib -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0 -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../.. CMakeFiles/cmTryCompileExec784423368.dir/CMakeCCompilerABI.c.o --disable-new-dtags -rpath /glade/u/apps/ch/os/usr/lib64 -rpath /glade/u/apps/ch/os/lib64 -rpath /glade/u/apps/ch/os/usr/lib -rpath /glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -rpath /glade/u/apps/ch/os/lib -rpath /glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Bstatic -lnetcdff -lnetcdf -lhdf5_hl -lhdf5 -lsz -lz -Bdynamic -lm -ldl -lrt -ldl -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtend.o /usr/lib/../lib64/crtn.o]
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/glade/scratch/auligne/cc9VWvOy.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec784423368] ==> ignore
+    arg [/usr/lib/../lib64/crt1.o] ==> ignore
+    arg [/usr/lib/../lib64/crti.o] ==> ignore
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtbegin.o] ==> ignore
+    arg [-L/glade/u/apps/ch/os/usr/lib64] ==> dir [/glade/u/apps/ch/os/usr/lib64]
+    arg [-L/glade/u/apps/ch/os/lib64] ==> dir [/glade/u/apps/ch/os/lib64]
+    arg [-L/glade/u/apps/ch/os/usr/lib] ==> dir [/glade/u/apps/ch/os/usr/lib]
+    arg [-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib] ==> dir [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib]
+    arg [-L/glade/u/apps/ch/os/lib] ==> dir [/glade/u/apps/ch/os/lib]
+    arg [-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+    arg [-L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0] ==> dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0]
+    arg [-L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64] ==> dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+    arg [-L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../..] ==> dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../..]
+    arg [CMakeFiles/cmTryCompileExec784423368.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [--disable-new-dtags] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/usr/lib64] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/lib64] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/usr/lib] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/lib] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> ignore
+    arg [-Bstatic] ==> ignore
+    arg [-lnetcdff] ==> lib [netcdff]
+    arg [-lnetcdf] ==> lib [netcdf]
+    arg [-lhdf5_hl] ==> lib [hdf5_hl]
+    arg [-lhdf5] ==> lib [hdf5]
+    arg [-lsz] ==> lib [sz]
+    arg [-lz] ==> lib [z]
+    arg [-Bdynamic] ==> ignore
+    arg [-lm] ==> lib [m]
+    arg [-ldl] ==> lib [dl]
+    arg [-lrt] ==> lib [rt]
+    arg [-ldl] ==> lib [dl]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtend.o] ==> ignore
+    arg [/usr/lib/../lib64/crtn.o] ==> ignore
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  collapse library dir [/glade/u/apps/ch/os/usr/lib64] ==> [/glade/u/apps/ch/os/usr/lib64]
+  collapse library dir [/glade/u/apps/ch/os/lib64] ==> [/glade/u/apps/ch/os/lib64]
+  collapse library dir [/glade/u/apps/ch/os/usr/lib] ==> [/glade/u/apps/ch/os/usr/lib]
+  collapse library dir [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib] ==> [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib]
+  collapse library dir [/glade/u/apps/ch/os/lib] ==> [/glade/u/apps/ch/os/lib]
+  collapse library dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+  collapse library dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0] ==> [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0]
+  collapse library dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64] ==> [/glade/u/apps/ch/opt/gnu/6.3.0/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+  collapse library dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../..] ==> [/glade/u/apps/ch/opt/gnu/6.3.0/lib]
+  implicit libs: [netcdff;netcdf;hdf5_hl;hdf5;sz;z;m;dl;rt;dl;c]
+  implicit dirs: [/glade/u/apps/ch/os/usr/lib64;/glade/u/apps/ch/os/lib64;/glade/u/apps/ch/os/usr/lib;/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib;/glade/u/apps/ch/os/lib;/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib;/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0;/glade/u/apps/ch/opt/gnu/6.3.0/lib64;/lib64;/usr/lib64;/glade/u/apps/ch/opt/gnu/6.3.0/lib]
+  implicit fwks: []
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2276716191/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2276716191.dir/build.make CMakeFiles/cmTryCompileExec2276716191.dir/build
+gmake[1]: Entering directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2276716191.dir/testCXXCompiler.cxx.o
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/g++     -o CMakeFiles/cmTryCompileExec2276716191.dir/testCXXCompiler.cxx.o -c /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec2276716191
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2276716191.dir/link.txt --verbose=1
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/g++        CMakeFiles/cmTryCompileExec2276716191.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec2276716191 -rdynamic 
+gmake[1]: Leaving directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec4244644773/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec4244644773.dir/build.make CMakeFiles/cmTryCompileExec4244644773.dir/build
+gmake[1]: Entering directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec4244644773.dir/CMakeCXXCompilerABI.cpp.o
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/g++     -o CMakeFiles/cmTryCompileExec4244644773.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTryCompileExec4244644773
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4244644773.dir/link.txt --verbose=1
+/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/g++      -v CMakeFiles/cmTryCompileExec4244644773.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec4244644773 -rdynamic  
+Using built-in specs.
+COLLECT_GCC=/glade/u/apps/ch/opt/gnu/6.3.0/bin/g++
+COLLECT_LTO_WRAPPER=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper
+Target: x86_64-pc-linux-gnu
+Configured with: ../gcc-6.3.0/configure --prefix=/glade/u/apps/ch/opt/gnu/6.3.0 --enable-languages=c,c++,fortran,lto --enable-threads --disable-multilib
+Thread model: posix
+gcc version 6.3.0 (GCC) 
+COMPILER_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/
+LIBRARY_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec4244644773' '-rdynamic' '-I' '/glade/u/apps/ch/os/usr/include' '-I' '/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include' '-L/glade/u/apps/ch/os/usr/lib64' '-L/glade/u/apps/ch/os/lib64' '-L/glade/u/apps/ch/os/usr/lib' '-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib' '-L/glade/u/apps/ch/os/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/collect2 -plugin /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/liblto_plugin.so -plugin-opt=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper -plugin-opt=-fresolution=/glade/scratch/auligne/ccqZYfL1.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec4244644773 /usr/lib/../lib64/crt1.o /usr/lib/../lib64/crti.o /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtbegin.o -L/glade/u/apps/ch/os/usr/lib64 -L/glade/u/apps/ch/os/lib64 -L/glade/u/apps/ch/os/usr/lib -L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -L/glade/u/apps/ch/os/lib -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0 -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../.. CMakeFiles/cmTryCompileExec4244644773.dir/CMakeCXXCompilerABI.cpp.o --disable-new-dtags -rpath /glade/u/apps/ch/os/usr/lib64 -rpath /glade/u/apps/ch/os/lib64 -rpath /glade/u/apps/ch/os/usr/lib -rpath /glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -rpath /glade/u/apps/ch/os/lib -rpath /glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Bstatic -lnetcdff -lnetcdf -lhdf5_hl -lhdf5 -lsz -lz -Bdynamic -ldl -lrt -ldl -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtend.o /usr/lib/../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec4244644773' '-rdynamic' '-I' '/glade/u/apps/ch/os/usr/include' '-I' '/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include' '-L/glade/u/apps/ch/os/usr/lib64' '-L/glade/u/apps/ch/os/lib64' '-L/glade/u/apps/ch/os/usr/lib' '-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib' '-L/glade/u/apps/ch/os/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+gmake[1]: Leaving directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp'
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:/usr/bin/gmake "cmTryCompileExec4244644773/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTryCompileExec4244644773.dir/build.make CMakeFiles/cmTryCompileExec4244644773.dir/build]
+  ignore line: [gmake[1]: Entering directory '/glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/bin/cmake -E cmake_progress_report /glade/u/home/auligne/Code/nicas_20170719/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec4244644773.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/g++     -o CMakeFiles/cmTryCompileExec4244644773.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTryCompileExec4244644773]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4244644773.dir/link.txt --verbose=1]
+  ignore line: [/glade/u/apps/ch/opt/ncarcompilers/0.4.1/mpi/g++      -v CMakeFiles/cmTryCompileExec4244644773.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec4244644773 -rdynamic  ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/glade/u/apps/ch/opt/gnu/6.3.0/bin/g++]
+  ignore line: [COLLECT_LTO_WRAPPER=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper]
+  ignore line: [Target: x86_64-pc-linux-gnu]
+  ignore line: [Configured with: ../gcc-6.3.0/configure --prefix=/glade/u/apps/ch/opt/gnu/6.3.0 --enable-languages=c,c++,fortran,lto --enable-threads --disable-multilib]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 6.3.0 (GCC) ]
+  ignore line: [COMPILER_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib/:/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec4244644773' '-rdynamic' '-I' '/glade/u/apps/ch/os/usr/include' '-I' '/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/include' '-L/glade/u/apps/ch/os/usr/lib64' '-L/glade/u/apps/ch/os/lib64' '-L/glade/u/apps/ch/os/usr/lib' '-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib' '-L/glade/u/apps/ch/os/lib' '-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/collect2 -plugin /glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/liblto_plugin.so -plugin-opt=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper -plugin-opt=-fresolution=/glade/scratch/auligne/ccqZYfL1.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTryCompileExec4244644773 /usr/lib/../lib64/crt1.o /usr/lib/../lib64/crti.o /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtbegin.o -L/glade/u/apps/ch/os/usr/lib64 -L/glade/u/apps/ch/os/lib64 -L/glade/u/apps/ch/os/usr/lib -L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -L/glade/u/apps/ch/os/lib -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0 -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../.. CMakeFiles/cmTryCompileExec4244644773.dir/CMakeCXXCompilerABI.cpp.o --disable-new-dtags -rpath /glade/u/apps/ch/os/usr/lib64 -rpath /glade/u/apps/ch/os/lib64 -rpath /glade/u/apps/ch/os/usr/lib -rpath /glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib -rpath /glade/u/apps/ch/os/lib -rpath /glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib -Bstatic -lnetcdff -lnetcdf -lhdf5_hl -lhdf5 -lsz -lz -Bdynamic -ldl -lrt -ldl -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtend.o /usr/lib/../lib64/crtn.o]
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/glade/u/apps/ch/opt/gnu/6.3.0/libexec/gcc/x86_64-pc-linux-gnu/6.3.0/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/glade/scratch/auligne/ccqZYfL1.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec4244644773] ==> ignore
+    arg [/usr/lib/../lib64/crt1.o] ==> ignore
+    arg [/usr/lib/../lib64/crti.o] ==> ignore
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtbegin.o] ==> ignore
+    arg [-L/glade/u/apps/ch/os/usr/lib64] ==> dir [/glade/u/apps/ch/os/usr/lib64]
+    arg [-L/glade/u/apps/ch/os/lib64] ==> dir [/glade/u/apps/ch/os/lib64]
+    arg [-L/glade/u/apps/ch/os/usr/lib] ==> dir [/glade/u/apps/ch/os/usr/lib]
+    arg [-L/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib] ==> dir [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib]
+    arg [-L/glade/u/apps/ch/os/lib] ==> dir [/glade/u/apps/ch/os/lib]
+    arg [-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+    arg [-L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0] ==> dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0]
+    arg [-L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64] ==> dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+    arg [-L/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../..] ==> dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../..]
+    arg [CMakeFiles/cmTryCompileExec4244644773.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [--disable-new-dtags] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/usr/lib64] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/lib64] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/usr/lib] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/os/lib] ==> ignore
+    arg [-rpath] ==> ignore
+    arg [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> ignore
+    arg [-Bstatic] ==> ignore
+    arg [-lnetcdff] ==> lib [netcdff]
+    arg [-lnetcdf] ==> lib [netcdf]
+    arg [-lhdf5_hl] ==> lib [hdf5_hl]
+    arg [-lhdf5] ==> lib [hdf5]
+    arg [-lsz] ==> lib [sz]
+    arg [-lz] ==> lib [z]
+    arg [-Bdynamic] ==> ignore
+    arg [-ldl] ==> lib [dl]
+    arg [-lrt] ==> lib [rt]
+    arg [-ldl] ==> lib [dl]
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/crtend.o] ==> ignore
+    arg [/usr/lib/../lib64/crtn.o] ==> ignore
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  collapse library dir [/glade/u/apps/ch/os/usr/lib64] ==> [/glade/u/apps/ch/os/usr/lib64]
+  collapse library dir [/glade/u/apps/ch/os/lib64] ==> [/glade/u/apps/ch/os/lib64]
+  collapse library dir [/glade/u/apps/ch/os/usr/lib] ==> [/glade/u/apps/ch/os/usr/lib]
+  collapse library dir [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib] ==> [/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib]
+  collapse library dir [/glade/u/apps/ch/os/lib] ==> [/glade/u/apps/ch/os/lib]
+  collapse library dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+  collapse library dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0] ==> [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0]
+  collapse library dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../../../lib64] ==> [/glade/u/apps/ch/opt/gnu/6.3.0/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib] ==> [/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib]
+  collapse library dir [/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0/../../..] ==> [/glade/u/apps/ch/opt/gnu/6.3.0/lib]
+  implicit libs: [netcdff;netcdf;hdf5_hl;hdf5;sz;z;dl;rt;dl;stdc++;m;c]
+  implicit dirs: [/glade/u/apps/ch/os/usr/lib64;/glade/u/apps/ch/os/lib64;/glade/u/apps/ch/os/usr/lib;/glade/u/apps/ch/opt/netcdf/4.4.1.1/gnu/6.3.0/lib;/glade/u/apps/ch/os/lib;/glade/u/apps/ch/opt/openmpi/2.1.0/gnu/6.3.0/lib;/glade/u/apps/ch/opt/gnu/6.3.0/lib/gcc/x86_64-pc-linux-gnu/6.3.0;/glade/u/apps/ch/opt/gnu/6.3.0/lib64;/lib64;/usr/lib64;/glade/u/apps/ch/opt/gnu/6.3.0/lib]
+  implicit fwks: []
+
+

@@ -1,0 +1,51 @@
+<map id="nicas" name="nicas">
+<area shape="rect" id="node2" href="$namespacemodel__interface.html#a07672885975d67b5a394f7480f0cf7b7" title="Purpose: get coordinates. " alt="" coords="128,714,288,755"/>
+<area shape="rect" id="node5" href="$namespacetools__display.html#abe7cb91231c4fa3195714ba76472104e" title="Purpose: print error message and stop. " alt="" coords="825,1165,985,1192"/>
+<area shape="rect" id="node14" href="$namespacemodule__mpi.html#a2f0d8ce9a53cacc5f981a3741549d847" title="Purpose: compute NICAS MPI distribution. " alt="" coords="117,1438,299,1465"/>
+<area shape="rect" id="node17" href="$namespacemodule__namelist.html#a62119c9eeb727e0549c342f660f22ea9" title="Purpose: read and check namelist parameters. " alt="" coords="117,1540,299,1566"/>
+<area shape="rect" id="node19" href="$namespacemodule__normalization.html#ab9ad82047da38902f6342b3e42969b70" title="Purpose: compute normalization. " alt="" coords="371,1275,538,1316"/>
+<area shape="rect" id="node22" href="$namespacemodule__parameters.html#a5182d8aadb6616c59357aba86ce63879" title="Purpose: compute NICAS parameters. " alt="" coords="134,1372,282,1414"/>
+<area shape="rect" id="node33" href="$namespacemodule__test.html#a923d4999a00963cf55ffd6512af05ebd" title="Purpose: test adjoints accuracy. " alt="" coords="119,1489,297,1516"/>
+<area shape="rect" id="node37" href="$namespacemodule__test.html#a7b922a1ee90c6c3d5e95644b024a3604" title="Purpose: test positive_definiteness. " alt="" coords="119,1590,297,1617"/>
+<area shape="rect" id="node38" href="$namespacemodule__test.html#a800eb6ba8767aea66c4c90e6855927b9" title="Purpose: test single/mutli&#45;procs equivalence. " alt="" coords="132,1641,284,1668"/>
+<area shape="rect" id="node39" href="$namespacemodule__test.html#a5a77c9dbbc68544635a1c6c80e6a8682" title="Purpose: apply NICAS to diracs. " alt="" coords="128,1198,288,1225"/>
+<area shape="rect" id="node40" href="$namespacetools__nc.html#adffd8bdbda90cde1050a883ec53c9a23" title="Purpose: initialize NetCDF type for floats. " alt="" coords="617,46,760,73"/>
+<area shape="rect" id="node41" href="$namespacetype__mpl.html#a20231a44aa5437c374e4ef69bd3d124a" title="Purpose: start MPI. " alt="" coords="139,1692,277,1718"/>
+<area shape="rect" id="node42" href="$namespacetype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="141,1742,275,1769"/>
+<area shape="rect" id="node43" href="$namespacetype__sdata.html#a0c6028a87e4a397fe1c98aaeb6e930d2" title="Purpose: read sdata object. " alt="" coords="127,218,289,259"/>
+<area shape="rect" id="node44" href="$namespacetype__sdata.html#ab5adabb1b8da7f659febd2721d76fbc7" title="Purpose: read sdata object. " alt="" coords="374,1092,535,1134"/>
+<area shape="rect" id="node45" href="$namespacetype__sdata.html#ac0a9dd64cd96526039e1b0df4db5ff71" title="Purpose: read sdata object. " alt="" coords="113,321,303,348"/>
+<area shape="rect" id="node46" href="$namespacetype__sdata.html#aa42634bc983e9de417806134a80c479f" title="Purpose: write sdata object. " alt="" coords="127,447,289,488"/>
+<area shape="rect" id="node47" href="$namespacetype__sdata.html#acf4e2369482a2c1b158526e0bdd5008f" title="Purpose: write sdata object. " alt="" coords="112,532,304,558"/>
+<area shape="rect" id="node48" href="$namespacetype__timer.html#a10a3366924a41ca1a05eb654dd6329ee" title="Purpose: initialize timer. " alt="" coords="131,1793,285,1820"/>
+<area shape="rect" id="node49" href="$namespacetype__timer.html#a0cc8813744a3d64ec467bf09f42085c5" title="Purpose: print intermediate timer. " alt="" coords="107,1844,309,1870"/>
+<area shape="rect" id="node50" href="$namespacetype__timer.html#a4726d424eccda49abdbc041022f50e9b" title="Purpose: finalize timer. " alt="" coords="613,97,764,124"/>
+<area shape="rect" id="node3" href="$namespacemodel__aro.html#a83dc96986d36cbf44aa321b8e325e05c" title="Purpose: load AROME coordinates. " alt="" coords="377,975,533,1016"/>
+<area shape="rect" id="node6" href="$namespacemodel__arp.html#a6006846f6aea6f12a22d87c933a74ccf" title="Purpose: get ARPEGE coordinates. " alt="" coords="377,452,533,494"/>
+<area shape="rect" id="node7" href="$namespacemodel__gem.html#a580a96522dc1e3541f8f922e7db7eda7" title="Purpose: get GEM coordinates. " alt="" coords="370,518,539,559"/>
+<area shape="rect" id="node8" href="$namespacemodel__geos.html#a42ead9a241705cf11e18e05d84f5acc4" title="Purpose: get geos coordinates. " alt="" coords="367,583,542,624"/>
+<area shape="rect" id="node9" href="$namespacemodel__gfs.html#a830b1122b87d1c430ee37d4e524d8f68" title="Purpose: get GFS coordinates. " alt="" coords="379,648,531,690"/>
+<area shape="rect" id="node10" href="$namespacemodel__ifs.html#ada8c3914bb7d2312c41472408156f207" title="Purpose: get IFS coordinates. " alt="" coords="383,714,527,755"/>
+<area shape="rect" id="node11" href="$namespacemodel__mpas.html#aa827dbcc639905fadebca5e23474a2b4" title="Purpose: get MPAS coordinates. " alt="" coords="363,779,546,820"/>
+<area shape="rect" id="node12" href="$namespacemodel__nemo.html#aed3de9f194ee53fffb6c1bdf508b5691" title="Purpose: get NEMO coordinates. " alt="" coords="363,844,547,886"/>
+<area shape="rect" id="node13" href="$namespacemodel__wrf.html#a63ef13f319060e79e0e7a9fe1e1cc62a" title="Purpose: get WRF coordinates. " alt="" coords="379,910,531,951"/>
+<area shape="rect" id="node4" href="$namespacetools__nc.html#a37a2ba62c59b476eb07633377a95b4ce" title="Purpose: handle NetCDF error. " alt="" coords="634,818,743,845"/>
+<area shape="rect" id="node15" href="$namespacetype__linop.html#a829cd2068ca6e7decae83f80c48486e1" title="Purpose: linear operator object allocation. " alt="" coords="612,1634,765,1661"/>
+<area shape="rect" id="node16" href="$namespacemodule__apply__com.html#ab4bb26755dd2a3986e2656c615d101ff" title="Purpose: communicate full field from global to local distribution. " alt="" coords="375,1900,534,1942"/>
+<area shape="rect" id="node18" href="$namespacetools__display.html#afa959f5ecdc571f8597268141785b864" title="Purpose: print warning message. " alt="" coords="365,2148,544,2174"/>
+<area shape="rect" id="node20" href="$namespacetools__display.html#aa739efed593153c8a64378b930c78b7f" title="Purpose: initialize progression display. " alt="" coords="610,1533,767,1560"/>
+<area shape="rect" id="node21" href="$namespacetools__display.html#a68aff9e85d244eb3c1d0c5535e9738b3" title="Purpose: print progression display. " alt="" coords="622,1467,755,1508"/>
+<area shape="rect" id="node23" href="$namespacemodule__parameters.html#a6fe75e47365378295557ce958c19ca2f" title="Purpose: compute grid mesh. " alt="" coords="615,1768,763,1810"/>
+<area shape="rect" id="node24" href="$namespacemodel__interface.html#a827d7151bd16f5795d84c7df39203313" title="Purpose: read model field. " alt="" coords="357,1224,552,1250"/>
+<area shape="rect" id="node25" href="$namespacetype__randgen.html#a5a6d31577bd53cd3e71c63008c9ad27a" title="Purpose: intialize sampling. " alt="" coords="375,1406,534,1447"/>
+<area shape="rect" id="node26" href="$namespacemodule__parameters__interp.html#ab7d02f80627281d546312adcd39ccfd4" title="Purpose: compute basic horizontal interpolation. " alt="" coords="364,1340,545,1382"/>
+<area shape="rect" id="node27" href="$namespacemodule__parameters__interp.html#a8d0a61ee6cd25d698085f6a92f20b716" title="Purpose: compute vertical interpolation. " alt="" coords="364,1732,545,1774"/>
+<area shape="rect" id="node28" href="$namespacemodule__parameters__interp.html#a282b384b5fdc02b7fb27ee1a79893151" title="Purpose: compute horizontal subsampling interpolation. " alt="" coords="364,1536,545,1578"/>
+<area shape="rect" id="node29" href="$namespacemodule__parameters__convol.html#a1667ac34181b0eda142a7f1c628dc88d" title="Purpose: compute convolution with a network approach. " alt="" coords="361,1602,548,1643"/>
+<area shape="rect" id="node30" href="$namespacemodule__parameters__convol.html#a386fc9afa1ab7cc27130dcd93630f118" title="Purpose: compute convolution with a distance approach. " alt="" coords="361,1667,548,1708"/>
+<area shape="rect" id="node31" href="$namespacemodule__parameters.html#a2239ff8237ff6107837f43234f1adc12" title="Purpose: compute subgrid mesh. " alt="" coords="373,1471,537,1512"/>
+<area shape="rect" id="node32" href="$namespacemodel__interface.html#a2b8ec01adb81c147ed1fd526510a4072" title="Purpose: write model field. " alt="" coords="375,1158,535,1199"/>
+<area shape="rect" id="node34" href="$namespacemodule__apply__com.html#a58c9a10af65e519bedd58ff174fefe06" title="Purpose: communicate reduced field from zone A to zone B. " alt="" coords="600,1983,777,2024"/>
+<area shape="rect" id="node35" href="$namespacemodule__apply__interp.html#ab9b1df0d0a05eea64a1d0ebb8e20f311" title="Purpose: interpolation. " alt="" coords="382,1966,527,2007"/>
+<area shape="rect" id="node36" href="$namespacemodule__apply__interp.html#a1db8b086d3d84de58b75f03003019b68" title="Purpose: interpolation adjoint. " alt="" coords="382,2031,527,2072"/>
+</map>

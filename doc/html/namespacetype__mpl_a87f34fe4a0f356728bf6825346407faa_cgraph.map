@@ -1,0 +1,5 @@
+<map id="type_mpl::mpl_send_logical_array_1d" name="type_mpl::mpl_send_logical_array_1d">
+<area shape="rect" id="node2" href="$namespacetype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="195,31,341,57"/>
+<area shape="rect" id="node3" href="$namespacetype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="389,5,532,32"/>
+<area shape="rect" id="node4" href="$namespacetype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="580,31,715,57"/>
+</map>

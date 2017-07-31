@@ -1,0 +1,12 @@
+<map id="type_linop::linop_alloc" name="type_linop::linop_alloc">
+<area shape="rect" id="node2" href="$namespacemodule__mpi.html#a2f0d8ce9a53cacc5f981a3741549d847" title="Purpose: compute NICAS MPI distribution. " alt="" coords="441,42,624,69"/>
+<area shape="rect" id="node4" href="$namespacemodule__parameters__convol.html#a1667ac34181b0eda142a7f1c628dc88d" title="Purpose: compute convolution with a network approach. " alt="" coords="207,44,393,85"/>
+<area shape="rect" id="node6" href="$namespacemodule__parameters__convol.html#a386fc9afa1ab7cc27130dcd93630f118" title="Purpose: compute convolution with a distance approach. " alt="" coords="207,109,393,151"/>
+<area shape="rect" id="node7" href="$namespacemodule__parameters__interp.html#ab7d02f80627281d546312adcd39ccfd4" title="Purpose: compute basic horizontal interpolation. " alt="" coords="209,175,391,216"/>
+<area shape="rect" id="node8" href="$namespacemodule__parameters__interp.html#a8d0a61ee6cd25d698085f6a92f20b716" title="Purpose: compute vertical interpolation. " alt="" coords="209,240,391,281"/>
+<area shape="rect" id="node9" href="$namespacemodule__parameters__interp.html#a282b384b5fdc02b7fb27ee1a79893151" title="Purpose: compute horizontal subsampling interpolation. " alt="" coords="209,305,391,347"/>
+<area shape="rect" id="node10" href="$namespacetype__linop.html#a8030d369f415ef8bab8dcb318e75a659" title="Purpose: read single linear operator from a NetCDF file. " alt="" coords="224,371,376,412"/>
+<area shape="rect" id="node11" href="$namespacetype__linop.html#aebcd47b09de1a40d117a902df71b0e4f" title="Purpose: read array of linear operators from a NetCDF file. " alt="" coords="224,436,376,477"/>
+<area shape="rect" id="node3" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="672,121,725,147"/>
+<area shape="rect" id="node5" href="$namespacemodule__parameters.html#a5182d8aadb6616c59357aba86ce63879" title="Purpose: compute NICAS parameters. " alt="" coords="459,143,607,184"/>
+</map>

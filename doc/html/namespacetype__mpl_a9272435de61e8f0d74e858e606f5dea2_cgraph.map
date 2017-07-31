@@ -1,0 +1,6 @@
+<map id="type_mpl::mpl_bcast_real" name="type_mpl::mpl_bcast_real">
+<area shape="rect" id="node2" href="$namespacetype__mpl.html#a7c4dad32f21b8203dba906c8fb8a5138" title="Purpose: check MPI error. " alt="" coords="425,31,572,57"/>
+<area shape="rect" id="node5" href="$namespacetype__mpl.html#aef90ec20ea2640a6cb3b62dadc4d0dde" title="Purpose: MPI barrier. " alt="" coords="227,56,377,83"/>
+<area shape="rect" id="node3" href="$namespacetype__mpl.html#ae44f01307dbcb62e1bb223d536949dd4" title="Purpose: clean MPI abort. " alt="" coords="620,5,763,32"/>
+<area shape="rect" id="node4" href="$namespacetype__mpl.html#af42d8ff58dd32d605a069aab3ebe6d95" title="Purpose: end MPI. " alt="" coords="811,31,945,57"/>
+</map>

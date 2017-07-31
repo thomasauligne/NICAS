@@ -1,0 +1,13 @@
+<map id="type_linop::apply_linop_ad" name="type_linop::apply_linop_ad">
+<area shape="rect" id="node3" href="$classmodule__apply__interp.html#a0bc139b19d963cf2f480ce09a5c68603" title="Purpose: interpolation adjoint, global. " alt="" coords="235,6,381,47"/>
+<area shape="rect" id="node31" href="$classmodule__apply__interp.html#a59b610ff153518c5231ba72658d98b0f" title="Purpose: interpolation adjoint, local. " alt="" coords="235,71,381,113"/>
+<area shape="rect" id="node5" href="$classmodule__apply__interp.html#a1db8b086d3d84de58b75f03003019b68" title="Purpose: interpolation adjoint. " alt="" coords="430,39,575,81"/>
+<area shape="rect" id="node7" href="$classmodule__apply__nicas.html#af891b000bef2e3f4c0c7a116ed30dab5" title="Purpose: apply NICAS method. " alt="" coords="835,94,981,135"/>
+<area shape="rect" id="node9" href="$classmodule__test.html#a923d4999a00963cf55ffd6512af05ebd" title="Purpose: test adjoints accuracy. " alt="" coords="1037,43,1216,69"/>
+<area shape="rect" id="node22" href="$classmodule__apply__nicas.html#a5278e7b3233d83b477ec8580b67fad2b" title="Purpose: apply NICAS method square&#45;root adjoint. " alt="" coords="625,39,778,81"/>
+<area shape="rect" id="node13" href="$classmodule__test.html#a7b922a1ee90c6c3d5e95644b024a3604" title="Purpose: test positive_definiteness. " alt="" coords="1037,93,1216,120"/>
+<area shape="rect" id="node16" href="$classmodule__test.html#a800eb6ba8767aea66c4c90e6855927b9" title="Purpose: test single/mutli&#45;procs equivalence. " alt="" coords="1051,144,1203,171"/>
+<area shape="rect" id="node19" href="$classmodule__test.html#a5a77c9dbbc68544635a1c6c80e6a8682" title="Purpose: apply NICAS to diracs. " alt="" coords="1046,195,1207,221"/>
+<area shape="rect" id="node11" href="$nicas_8f90.html#aa38c27035a6baa585e3acc7722a02823" title="Purpose: compute NICAS correlation model parameters &#160;&#160;Author: Benjamin Menetrier &#160;&#160;Licensing: this co..." alt="" coords="1265,119,1319,145"/>
+<area shape="rect" id="node24" href="$classmodule__apply__nicas.html#ae571f2b9e053e1abb8a3420bb02c2320" title="Purpose: apply NICAS method from its square&#45;root formulation. " alt="" coords="827,159,989,201"/>
+</map>
